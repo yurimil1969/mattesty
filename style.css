@@ -22,3 +22,9 @@
 .uz-wybor-symbol input{width:17px;height:17px;margin:0;flex:0 0 17px;cursor:pointer}
 .uz-wybor-symbol span{white-space:nowrap}
 .uz-opcja{display:flex;align-items:center;min-height:49px}
+
+/* v5: kółko zawsze przed symbolem, bez zależności od wewnętrznego układu tabeli */
+.tabela-uz .uz-czesci .uz-symbol { width: 90px; min-width: 90px; }
+.tabela-uz .uz-wybor-symbol { display: inline-flex; flex-direction: row; justify-content: flex-start; align-items: center; gap: 9px; white-space: nowrap; width: 100%; }
+.tabela-uz .uz-wybor-symbol > input[type="radio"] { position: static; order: 0; display: inline-block; appearance: auto; opacity: 1; visibility: visible; width: 18px; height: 18px; margin: 0; flex: 0 0 18px; }
+.tabela-uz .uz-wybor-symbol > span { order: 1; display: inline; }
