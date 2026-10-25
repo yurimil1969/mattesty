@@ -24,7 +24,7 @@ function wczytajTest(zawartosc){
  return bloki.map((blok,idx)=>{
   const linie=blok.split('\n').map(s=>s.trim()).filter(Boolean);
   const typ=linie.shift();
-  if(!['@ABC','@PF','@UZ'].includes(typ))throw Error(`Zadanie ${idx+1}: nieznany typ ${typ}`);
+  if(!['@ABC','@PF','@UZ','@LUKI'].includes(typ))throw Error(`Zadanie ${idx+1}: nieznany typ ${typ}`);
   const tresc=[],odp=[],zdania=[],uzasadnienia=[];let poprawna='';
   for(const linia of linie){
    let m;
@@ -36,8 +36,12 @@ function wczytajTest(zawartosc){
   }
   if(typ==='@ABC'&&(odp.length!==4||!odp.some(o=>o.id===poprawna)))throw Error(`Zadanie ${idx+1}: wymagane A–D i POPRAWNA`);
   if(typ==='@PF'&&(zdania.length!==2||new Set(zdania.map(z=>z.id)).size!==2))throw Error(`Zadanie ${idx+1}: wymagane dwa zdania P/F`);
+  if(typ==='@LUKI'){
+   if(odp.length!==4||new Set(odp.map(o=>o.id)).size!==4|| !/^[AB][CD]$/.test(poprawna))throw Error(`Zadanie ${idx+1}: wymagane A, B, C, D i POPRAWNA: np. AC`);
+   if(!tresc.join('\n').includes('[[AB]]')||!tresc.join('\n').includes('[[CD]]'))throw Error(`Zadanie ${idx+1}: wstaw w treści [[AB]] i [[CD]]`);
+  }
   if(typ==='@UZ'&&(odp.length!==2||uzasadnienia.length!==3||!odp.some(o=>o.id===poprawna[0])||!uzasadnienia.some(o=>o.id===poprawna[1])))throw Error(`Zadanie ${idx+1}: wymagane A–B, 1–3 i POPRAWNA: np. A1`);
-  return {typ,tresc:tresc.join('\n'),odp:wymieszaj(odp),zdania:wymieszaj(zdania),uzasadnienia:wymieszaj(uzasadnienia),poprawna};
+  return {typ,tresc:tresc.join('\n'),odp:wymieszaj(odp),zdania:wymieszaj(zdania),uzasadnienia:wymieszaj(uzasadnienia),pary:typ==='@LUKI'?[wymieszaj(odp.filter(o=>'AB'.includes(o.id))),wymieszaj(odp.filter(o=>'CD'.includes(o.id)))]:[],poprawna};
  });
 }
 function litera(i){return 'ABCD'[i];}
@@ -50,6 +54,26 @@ function rysuj(test,baza){
   if(z.typ==='@ABC')html+=`<div class="opcje-abc">${z.odp.map((o,j)=>`<label class="kafelek" data-wybor="${o.id}"><input type="radio" name="z${i}_abc" value="${o.id}"><b>${litera(j)}.</b> ${pokazTekst(o.tekst,baza)}</label>`).join('')}</div>`;
   if(z.typ==='@PF')html+=`<div class="tabela-wrap"><table class="tabela-pf"><thead><tr><th scope="col">Zdanie</th><th scope="col">P</th><th scope="col">F</th></tr></thead><tbody>${z.zdania.map((p,j)=>`<tr data-pf="${p.id}"><td><b>${j+1}.</b> ${pokazTekst(p.tekst,baza)}</td>${['P','F'].map(v=>`<td class="pole-pf"><label><input type="radio" name="z${i}_pf${p.id}" value="${v}" aria-label="Zdanie ${j+1}: ${v==='P'?'prawda':'fałsz'}"><span aria-hidden="true">●</span></label></td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
   if(z.typ==='@UZ')html+=`<div class="tabela-wrap"><table class="tabela-uz" aria-label="Wybierz odpowiedź i uzasadnienie"><tbody><tr><td class="uz-lewa"><table class="uz-czesci"><tbody>${z.odp.map((o,j)=>`<tr data-wybor="${o.id}"><th scope="row" class="uz-symbol"><label class="uz-wybor-symbol"><input type="radio" id="z${i}_wybor_${j}" name="z${i}_wybor" value="${o.id}"><span>${'AB'[j]}.</span></label></th><td><label class="uz-opcja" for="z${i}_wybor_${j}">${pokazTekst(o.tekst,baza)}</label></td></tr>`).join('')}</tbody></table></td><td class="uz-poniewaz">ponieważ</td><td class="uz-prawa"><table class="uz-czesci"><tbody>${z.uzasadnienia.map((o,j)=>`<tr data-wybor="${o.id}"><th scope="row" class="uz-symbol"><label class="uz-wybor-symbol"><input type="radio" id="z${i}_uz_${j}" name="z${i}_uz" value="${o.id}"><span>${j+1}.</span></label></th><td><label class="uz-opcja" for="z${i}_uz_${j}">${pokazTekst(o.tekst,baza)}</label></td></tr>`).join('')}</tbody></table></td></tr></tbody></table></div>`;
+  if(z.typ==='@LUKI'){
+    // Dwie niezależne pary odpowiedzi w treści, podobnie jak w arkuszu CKE.
+    // Każdy widoczny symbol wskazuje losowo przyporządkowaną odpowiedź.
+    const grupy=['AB','CD'];
+    const wstaw=(tekst)=>{
+      const czesci=tekst.split(/(\[\[(?:AB|CD)\]\])/g);
+      return czesci.map(c=>{
+        if(!/^\[\[(?:AB|CD)\]\]$/.test(c))return pokazTekst(c,baza);
+        const grupa=c.slice(2,4),g=grupy.indexOf(grupa);
+        return `<span class="luki-inline" role="group" aria-label="Wybierz ${grupa}">${z.pary[g].map((o,j)=>`<label class="luka-przycisk" data-wybor="${o.id}"><input type="radio" name="z${i}_luka${g}" value="${o.id}" aria-label="${grupa[j]}"><span>${grupa[j]}</span></label>`).join('')}</span>`;
+      }).join('');
+    };
+    // Zadania można podzielić linią --- na krótkie akapity; bez pustych wierszy.
+    const czesci=z.tresc.split(/\n---\n/);
+    html=`<section class="zadanie" id="zadanie-${i}"><div class="naglowek"><h3>Zadanie ${i+1} <small>(1 pkt)</small></h3><span class="ocena" aria-live="polite"></span></div>`+
+      czesci.map(tekst=>{
+        const grp=tekst.includes('[[AB]]')?0:tekst.includes('[[CD]]')?1:-1;
+        return `<div class="luki-akapit">${wstaw(tekst)}</div>`+(grp<0?'':`<div class="luki-para" data-grupa="${grp}">${z.pary[grp].map((o,j)=>`<label class="luki-odpowiedz" data-wybor="${o.id}"><b>${grupy[grp][j]}.</b> ${pokazTekst(o.tekst,baza)}</label>`).join('')}</div>`);
+      }).join('');
+  }
   return html+'</section>';
  }).join('');
  if(window.MathJax?.typesetPromise)MathJax.typesetPromise([$('zadania')]).catch(console.error);
@@ -72,6 +96,22 @@ function ocen(){
     const w=karta.querySelector(`tr[data-pf="${p.id}"]`);
     if(wsk===p.poprawna)zaznacz(w,true);
     else{zaznacz(w,false);const poprawny=w.querySelector(`input[value="${p.poprawna}"]`);poprawny?.closest('td')?.classList.add('poprawna-komorka');}
+   });
+  }
+  if(z.typ==='@LUKI'){
+   const wybor1=wybor(`z${i}_luka0`),wybor2=wybor(`z${i}_luka1`);
+   ok=wybor1===z.poprawna[0]&&wybor2===z.poprawna[1];
+   [wybor1,wybor2].forEach((w,g)=>{
+    const poprawne=z.poprawna[g];
+    const para=karta.querySelector(`.luki-para[data-grupa="${g}"]`);
+    const odp=[...para.querySelectorAll('.luki-odpowiedz')];
+    zaznacz(odp.find(el=>el.dataset.wybor===w),w===poprawne);
+    if(w!==poprawne)zaznacz(odp.find(el=>el.dataset.wybor===poprawne),true);
+    const przyciski=karta.querySelector(`.luki-inline[aria-label="Wybierz ${g===0?'AB':'CD'}"]`).querySelectorAll('.luka-przycisk');
+    for(const el of przyciski){
+     if(el.dataset.wybor===w)zaznacz(el,w===poprawne);
+     if(el.dataset.wybor===poprawne&&w!==poprawne)el.classList.add('poprawna-komorka');
+    }
    });
   }
   if(z.typ==='@UZ'){

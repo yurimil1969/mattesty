@@ -28,3 +28,18 @@
 .tabela-uz .uz-wybor-symbol { display: inline-flex; flex-direction: row; justify-content: flex-start; align-items: center; gap: 9px; white-space: nowrap; width: 100%; }
 .tabela-uz .uz-wybor-symbol > input[type="radio"] { position: static; order: 0; display: inline-block; appearance: auto; opacity: 1; visibility: visible; width: 18px; height: 18px; margin: 0; flex: 0 0 18px; }
 .tabela-uz .uz-wybor-symbol > span { order: 1; display: inline; }
+
+/* Zadania z dwiema lukami (AB + CD). */
+.luki-akapit{margin:9px 0;line-height:1.65}
+.luki-inline{display:inline-flex;vertical-align:middle;border:1px solid #64748b;margin:0 5px;white-space:nowrap;border-radius:2px;overflow:hidden}
+.luka-przycisk{position:relative;display:inline-flex;align-items:center;justify-content:center;min-width:36px;min-height:30px;cursor:pointer;background:white;font-weight:700}
+.luka-przycisk+.luka-przycisk{border-left:1px solid #64748b}
+.luka-przycisk input{position:absolute;opacity:0;width:100%;height:100%;inset:0;margin:0;cursor:pointer}
+.luka-przycisk:has(input:checked){background:#dceaff;box-shadow:inset 0 0 0 2px #2563eb}
+.luka-przycisk:has(input:focus-visible){outline:2px solid #2563eb;outline-offset:-2px}
+.luki-opcje{margin:8px 0;display:grid;gap:10px}
+.luki-para{display:flex;gap:8px 25px;flex-wrap:wrap}
+.luki-odpowiedz{display:inline-flex;gap:7px;align-items:center;padding:5px 9px;border:1px solid transparent;border-radius:3px}
+.luki-odpowiedz b{min-width:23px}
+.ocenione .luka-przycisk.dobrze,.ocenione .luki-odpowiedz.dobrze{background:#ddf5e3!important;box-shadow:inset 0 0 0 2px #1f924b}
+.ocenione .luka-przycisk.zle,.ocenione .luki-odpowiedz.zle{background:#fce0e0!important;box-shadow:inset 0 0 0 2px #cf4141}
