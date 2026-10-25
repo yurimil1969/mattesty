@@ -13,7 +13,9 @@ function pokazTekst(txt, baza){
     obrazy.push(`<img loading="lazy" src="${escapeHTML(new URL(p,baza).href)}" alt="${escapeHTML(opis)}">`);
     return token;
   });
-  let html=escapeHTML(txt).replace(/\n/g,'<br>');
+  // $$...$$ w plikach testu oznacza wzór w TEJ SAMEJ LINII co tekst.
+  // MathJax używa tu jawnie trybu inline \( ... \), także przy złamaniu linii.
+  let html=escapeHTML(txt).replace(/\$\$([\s\S]*?)\$\$/g,(_,latex)=>'\\('+latex.trim()+'\\)').replace(/\n/g,'<br>');
   obrazy.forEach((img,i)=>{html=html.replace(`@@OBRAZ${i}@@`,img);});
   return `<span class="teksty">${html}</span>`;
 }
@@ -47,7 +49,7 @@ function rysuj(test,baza){
   let html=`<section class="zadanie" id="zadanie-${i}"><div class="naglowek"><h3>Zadanie ${i+1} <small>(1 pkt)</small></h3><span class="ocena" aria-live="polite"></span></div><div class="tresc-zadania">${pokazTekst(z.tresc,baza)}</div>`;
   if(z.typ==='@ABC')html+=`<div class="opcje-abc">${z.odp.map((o,j)=>`<label class="kafelek" data-wybor="${o.id}"><input type="radio" name="z${i}_abc" value="${o.id}"><b>${litera(j)}.</b> ${pokazTekst(o.tekst,baza)}</label>`).join('')}</div>`;
   if(z.typ==='@PF')html+=`<div class="tabela-wrap"><table class="tabela-pf"><thead><tr><th scope="col">Zdanie</th><th scope="col">P</th><th scope="col">F</th></tr></thead><tbody>${z.zdania.map((p,j)=>`<tr data-pf="${p.id}"><td><b>${j+1}.</b> ${pokazTekst(p.tekst,baza)}</td>${['P','F'].map(v=>`<td class="pole-pf"><label><input type="radio" name="z${i}_pf${p.id}" value="${v}" aria-label="Zdanie ${j+1}: ${v==='P'?'prawda':'fałsz'}"><span aria-hidden="true">●</span></label></td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
-  if(z.typ==='@UZ')html+=`<div class="uz-siatka"><div><h4>Wybierz odpowiedź</h4>${tabelaWyborow(i,z.odp,'wybor',baza,['A','B'])}</div><div><h4>Wybierz uzasadnienie</h4>${tabelaWyborow(i,z.uzasadnienia,'uz',baza,['1','2','3'])}</div></div>`;
+  if(z.typ==='@UZ')html+=`<div class="tabela-wrap"><table class="tabela-uz" aria-label="Wybierz odpowiedź i uzasadnienie"><tbody><tr><td class="uz-lewa"><table class="uz-czesci"><tbody>${z.odp.map((o,j)=>`<tr data-wybor="${o.id}"><th scope="row" class="uz-symbol">${'AB'[j]}.</th><td><label class="uz-opcja"><input type="radio" name="z${i}_wybor" value="${o.id}"><span>${pokazTekst(o.tekst,baza)}</span></label></td></tr>`).join('')}</tbody></table></td><td class="uz-poniewaz">ponieważ</td><td class="uz-prawa"><table class="uz-czesci"><tbody>${z.uzasadnienia.map((o,j)=>`<tr data-wybor="${o.id}"><th scope="row" class="uz-symbol">${j+1}.</th><td><label class="uz-opcja"><input type="radio" name="z${i}_uz" value="${o.id}"><span>${pokazTekst(o.tekst,baza)}</span></label></td></tr>`).join('')}</tbody></table></td></tr></tbody></table></div>`;
   return html+'</section>';
  }).join('');
  if(window.MathJax?.typesetPromise)MathJax.typesetPromise([$('zadania')]).catch(console.error);
@@ -76,7 +78,7 @@ function ocen(){
    const wy=wybor(`z${i}_wybor`),uz=wybor(`z${i}_uz`);
    const okWy=wy===z.poprawna[0],okUz=uz===z.poprawna[1];ok=okWy&&okUz;
    for(const [pole,wsk,poprawne] of [['wybor',wy,z.poprawna[0]],['uz',uz,z.poprawna[1]]]){
-    const grupa=karta.querySelector(`input[name="z${i}_${pole}"]`)?.closest('.tabela-wrap');
+    const grupa=karta.querySelector(`input[name="z${i}_${pole}"]`)?.closest('.uz-czesci');
     const wiersze=[...(grupa?.querySelectorAll('tr[data-wybor]')||[])];
     zaznacz(wiersze.find(el=>el.dataset.wybor===wsk),wsk===poprawne);
     if(wsk!==poprawne)zaznacz(wiersze.find(el=>el.dataset.wybor===poprawne),true);
