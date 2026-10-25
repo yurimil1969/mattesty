@@ -1,0 +1,21 @@
+@ABC
+Oblicz wartość wyrażenia $$\frac{3}{4}+\frac{1}{2}$$.
+A: $$\frac{5}{4}$$
+B: $$\frac{4}{6}$$
+C: $$\frac{3}{8}$$
+D: $$\frac{2}{4}$$
+POPRAWNA: A
+
+@PF
+Oceń prawdziwość zdań.
+1: Liczba $$\sqrt{25}$$ jest liczbą naturalną. | P
+2: Liczba $$\sqrt{2}$$ jest liczbą wymierną. | F
+
+@UZ
+Które stwierdzenie o liczbie $$\frac{1}{4}$$ jest poprawne?
+A: Jest mniejsza od $$\frac{1}{2}$$.
+B: Jest większa od $$\frac{1}{2}$$.
+1: Ponieważ $$\frac{1}{4}=\frac{2}{8}$$ i $$\frac{1}{2}=\frac{4}{8}$$.
+2: Ponieważ $$4>2$$.
+3: Ponieważ $$\frac{1}{4}=4$$.
+POPRAWNA: A1
