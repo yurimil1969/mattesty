@@ -38,34 +38,59 @@ function wczytajTest(zawartosc){
   return {typ,tresc:tresc.join('\n'),odp:wymieszaj(odp),zdania:wymieszaj(zdania),uzasadnienia:wymieszaj(uzasadnienia),poprawna};
  });
 }
-function opisyWyborow(numer,elementy,grupa,baza,literowanie){
- return elementy.map((o,i)=>`<label class="wybor"><input type="radio" name="z${numer}_${grupa}" value="${o.id}"><b>${literowanie[i]}.</b> ${pokazTekst(o.tekst,baza)}</label>`).join('');
+function litera(i){return 'ABCD'[i];}
+function tabelaWyborow(numer,elementy,grupa,baza,etykiety){
+ return `<div class="tabela-wrap"><table class="tabela-odpowiedzi"><tbody>${elementy.map((o,i)=>`<tr class="wiersz-opcji" data-wybor="${o.id}"><th scope="row" class="symbol">${etykiety[i]}</th><td class="opis-opcji">${pokazTekst(o.tekst,baza)}</td><td class="pole-wyboru"><label class="pole-radio"><input type="radio" name="z${numer}_${grupa}" value="${o.id}" aria-label="Wybierz odpowiedź ${etykiety[i]}"><span aria-hidden="true">●</span></label></td></tr>`).join('')}</tbody></table></div>`;
 }
 function rysuj(test,baza){
  $('zadania').innerHTML=test.map((z,i)=>{
-  let html=`<section class="zadanie"><h3>Zadanie ${i+1} (1 pkt)</h3><p>${pokazTekst(z.tresc,baza)}</p>`;
-  if(z.typ==='@ABC')html+=opisyWyborow(i,z.odp,'abc',baza,['A','B','C','D']);
-  if(z.typ==='@PF')html+=z.zdania.map((p,j)=>`<div class="pf"><span>${j+1}. ${pokazTekst(p.tekst,baza)}</span><label><input type="radio" name="z${i}_pf${p.id}" value="P">P</label><label><input type="radio" name="z${i}_pf${p.id}" value="F">F</label></div>`).join('');
-  if(z.typ==='@UZ'){
-   html+='<p><b>Wybierz odpowiedź:</b></p>'+opisyWyborow(i,z.odp,'wybor',baza,['A','B']);
-   html+='<p><b>Wybierz uzasadnienie:</b></p>'+opisyWyborow(i,z.uzasadnienia,'uz',baza,['1','2','3']);
-  }
+  let html=`<section class="zadanie" id="zadanie-${i}"><div class="naglowek"><h3>Zadanie ${i+1} <small>(1 pkt)</small></h3><span class="ocena" aria-live="polite"></span></div><div class="tresc-zadania">${pokazTekst(z.tresc,baza)}</div>`;
+  if(z.typ==='@ABC')html+=`<div class="opcje-abc">${z.odp.map((o,j)=>`<label class="kafelek" data-wybor="${o.id}"><input type="radio" name="z${i}_abc" value="${o.id}"><b>${litera(j)}.</b> ${pokazTekst(o.tekst,baza)}</label>`).join('')}</div>`;
+  if(z.typ==='@PF')html+=`<div class="tabela-wrap"><table class="tabela-pf"><thead><tr><th scope="col">Zdanie</th><th scope="col">P</th><th scope="col">F</th></tr></thead><tbody>${z.zdania.map((p,j)=>`<tr data-pf="${p.id}"><td><b>${j+1}.</b> ${pokazTekst(p.tekst,baza)}</td>${['P','F'].map(v=>`<td class="pole-pf"><label><input type="radio" name="z${i}_pf${p.id}" value="${v}" aria-label="Zdanie ${j+1}: ${v==='P'?'prawda':'fałsz'}"><span aria-hidden="true">●</span></label></td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
+  if(z.typ==='@UZ')html+=`<div class="uz-siatka"><div><h4>Wybierz odpowiedź</h4>${tabelaWyborow(i,z.odp,'wybor',baza,['A','B'])}</div><div><h4>Wybierz uzasadnienie</h4>${tabelaWyborow(i,z.uzasadnienia,'uz',baza,['1','2','3'])}</div></div>`;
   return html+'</section>';
  }).join('');
  if(window.MathJax?.typesetPromise)MathJax.typesetPromise([$('zadania')]).catch(console.error);
 }
 function wybor(nazwa){return document.querySelector(`input[name="${nazwa}"]:checked`)?.value??null;}
+function zaznacz(element,dobrze){if(element)element.classList.add(dobrze?'dobrze':'zle');}
 function ocen(){
  let punkty=0;
  for(let i=0;i<aktywne.length;i++){
-  const z=aktywne[i];let ok=false;
-  if(z.typ==='@ABC')ok=wybor(`z${i}_abc`)===z.poprawna;
-  if(z.typ==='@PF')ok=z.zdania.every(p=>wybor(`z${i}_pf${p.id}`)===p.poprawna);
-  if(z.typ==='@UZ')ok=wybor(`z${i}_wybor`)+wybor(`z${i}_uz`)===z.poprawna;
+  const z=aktywne[i],karta=$(`zadanie-${i}`);let ok=false;
+  if(z.typ==='@ABC'){
+   const wsk=wybor(`z${i}_abc`);ok=wsk===z.poprawna;
+   zaznacz([...karta.querySelectorAll('.kafelek')].find(el=>el.dataset.wybor===wsk),ok);
+   if(!ok)zaznacz([...karta.querySelectorAll('.kafelek')].find(el=>el.dataset.wybor===z.poprawna),true);
+  }
+  if(z.typ==='@PF'){
+   const czesci=z.zdania.map(p=>({p,wsk:wybor(`z${i}_pf${p.id}`)}));
+   ok=czesci.every(({p,wsk})=>wsk===p.poprawna);
+   czesci.forEach(({p,wsk})=>{
+    const w=karta.querySelector(`tr[data-pf="${p.id}"]`);
+    if(wsk===p.poprawna)zaznacz(w,true);
+    else{zaznacz(w,false);const poprawny=w.querySelector(`input[value="${p.poprawna}"]`);poprawny?.closest('td')?.classList.add('poprawna-komorka');}
+   });
+  }
+  if(z.typ==='@UZ'){
+   const wy=wybor(`z${i}_wybor`),uz=wybor(`z${i}_uz`);
+   const okWy=wy===z.poprawna[0],okUz=uz===z.poprawna[1];ok=okWy&&okUz;
+   for(const [pole,wsk,poprawne] of [['wybor',wy,z.poprawna[0]],['uz',uz,z.poprawna[1]]]){
+    const grupa=karta.querySelector(`input[name="z${i}_${pole}"]`)?.closest('.tabela-wrap');
+    const wiersze=[...(grupa?.querySelectorAll('tr[data-wybor]')||[])];
+    zaznacz(wiersze.find(el=>el.dataset.wybor===wsk),wsk===poprawne);
+    if(wsk!==poprawne)zaznacz(wiersze.find(el=>el.dataset.wybor===poprawne),true);
+   }
+  }
   if(ok)punkty++;
+  karta.classList.add('ocenione');
+  const etykieta=karta.querySelector('.ocena');
+  etykieta.textContent=ok?'1/1 pkt':'0/1 pkt';etykieta.classList.add(ok?'wynik-ok':'wynik-zero');
  }
  const procent=Math.round(punkty/aktywne.length*100);
- $('wynik').textContent=`Wynik: ${punkty}/${aktywne.length} pkt — ${procent}%`;
+ $('wynik').innerHTML=`Wynik: <strong>${punkty}/${aktywne.length} pkt — ${procent}%</strong><p class="legenda"><span class="legenda-ok">Zielone</span> — poprawne odpowiedzi lub części odpowiedzi. <span class="legenda-zle">Czerwone</span> — błędne zaznaczenia. Punkt jest tylko za całe zadanie.</p>`;
+ $('formularz').querySelectorAll('input').forEach(el=>el.disabled=true);
+ $('formularz').querySelector('button[type="submit"]').disabled=true;
  $('wynik').scrollIntoView({behavior:'smooth',block:'center'});
 }
 async function tekst(url){const odp=await fetch(url,{cache:'no-store'});if(!odp.ok)throw Error(`Nie udało się pobrać pliku (${odp.status})`);return odp.text();}
@@ -122,7 +147,7 @@ async function pobierzListeGitHub(){
    $('komunikat').textContent='';
    const t=poprawne[Number($('wybor').value)];const url=new URL(t.plik,document.baseURI);
    aktywne=wczytajTest(await tekst(url));if(!aktywne.length)throw Error('Pusty test');
-   $('nazwa').textContent=t.nazwa;rysuj(aktywne,url);$('formularz').hidden=false;$('wynik').textContent='';
+   $('nazwa').textContent=t.nazwa;rysuj(aktywne,url);$('formularz').hidden=false;$('wynik').textContent='';$('formularz').querySelector('button[type="submit"]').disabled=false;
   }catch(e){$('komunikat').textContent=e.message;}
  });
  $('formularz').addEventListener('submit',e=>{e.preventDefault();ocen();});
