@@ -116,6 +116,11 @@ POPRAWNA: C
 @PF
 Na kartce w kratkę Jurek wykonał rysunek. Na tym rysunku punkty 𝑀, 𝑊, 𝑆 oznaczają położenia odpowiednio: muzeum, wieży widokowej oraz schroniska. Wieża widokowa znajduje się 3 km na północ i 4 km na zachód od schroniska. Muzeum znajduje się 5 km na wschód od schroniska.
 ![Rysunek]{rysunek.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Odległość w linii prostej schroniska od muzeum jest równa odległości w linii prostej schroniska od wieży widokowej. | P
+2: Odległość w linii prostej muzeum od wieży widokowej jest mniejsza niż 10 km. | P
+
+
 
 
 
