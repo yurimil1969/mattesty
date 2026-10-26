@@ -1,6 +1,37 @@
 'use strict';
 const $ = id => document.getElementById(id);
 let aktywne = [];
+let licznikOd = null;
+let licznikInterval = null;
+let czasKoncowy = 0;
+function formatujCzas(ms){
+ const sekundy=Math.floor(Math.max(0,ms)/1000);
+ const godz=Math.floor(sekundy/3600), min=Math.floor(sekundy%3600/60), sek=sekundy%60;
+ return (godz ? String(godz).padStart(2,'0')+':' : '')+String(min).padStart(2,'0')+':'+String(sek).padStart(2,'0');
+}
+function odswiezCzas(){
+ if(licznikOd!==null)$('czas').textContent=formatujCzas(performance.now()-licznikOd);
+}
+function wyzerujStoper(){
+ if(licznikInterval!==null)clearInterval(licznikInterval);
+ licznikInterval=null;licznikOd=null;czasKoncowy=0;
+ $('czas').textContent='00:00';$('stoper').classList.remove('zatrzymany');
+}
+function rozpocznijStoper(){
+ wyzerujStoper();licznikOd=performance.now();
+ licznikInterval=setInterval(odswiezCzas,250);
+}
+function zatrzymajStoper(){
+ if(licznikOd===null)return 0;
+ czasKoncowy=performance.now()-licznikOd;
+ odswiezCzas();
+ if(licznikInterval!==null)clearInterval(licznikInterval);
+ licznikInterval=null;licznikOd=null;
+ $('czas').textContent=formatujCzas(czasKoncowy);
+ $('stoper').classList.add('zatrzymany');
+ return czasKoncowy;
+}
+
 const wymieszaj = a => { a=[...a]; for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a; };
 const escapeHTML = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
 function pokazTekst(txt, baza){
@@ -132,7 +163,7 @@ function ocen(){
   etykieta.textContent=ok?'1/1 pkt':'0/1 pkt';etykieta.classList.add(ok?'wynik-ok':'wynik-zero');
  }
  const procent=Math.round(punkty/aktywne.length*100);
- $('wynik').innerHTML=`Wynik: <strong>${punkty}/${aktywne.length} pkt — ${procent}%</strong><p class="legenda"><span class="legenda-ok">Zielone</span> — poprawne odpowiedzi lub części odpowiedzi. <span class="legenda-zle">Czerwone</span> — błędne zaznaczenia. Punkt jest tylko za całe zadanie.</p>`;
+ $('wynik').innerHTML=`Wynik: <strong>${punkty}/${aktywne.length} pkt — ${procent}%</strong> · Czas: <strong>${formatujCzas(czasKoncowy)}</strong><p class="legenda"><span class="legenda-ok">Zielone</span> — poprawne odpowiedzi lub części odpowiedzi. <span class="legenda-zle">Czerwone</span> — błędne zaznaczenia. Punkt jest tylko za całe zadanie.</p>`;
  $('formularz').querySelectorAll('input').forEach(el=>el.disabled=true);
  $('formularz').querySelector('button[type="submit"]').disabled=true;
  $('wynik').scrollIntoView({behavior:'smooth',block:'center'});
@@ -185,15 +216,17 @@ async function pobierzListeGitHub(){
  if(!poprawne.length)throw Error('Nie znaleziono testów. Dodaj folder testy/NAZWA/test.txt w repozytorium.');
  $('wybor').innerHTML='<option value="">— wybierz test —</option>';
  poprawne.forEach((t,i)=>{const opt=document.createElement('option');opt.value=String(i);opt.textContent=t.nazwa;$('wybor').append(opt);});
- $('wybor').addEventListener('change',()=>{$('start').disabled=!$('wybor').value;$('formularz').hidden=true;$('wynik').textContent='';});
+ $('wybor').addEventListener('change',()=>{wyzerujStoper();$('start').disabled=!$('wybor').value;$('formularz').hidden=true;$('wynik').textContent='';});
  $('start').addEventListener('click',async()=>{
+  wyzerujStoper();$('start').disabled=true;
   try{
    $('komunikat').textContent='';
    const t=poprawne[Number($('wybor').value)];const url=new URL(t.plik,document.baseURI);
    aktywne=wczytajTest(await tekst(url));if(!aktywne.length)throw Error('Pusty test');
-   $('nazwa').textContent=t.nazwa;rysuj(aktywne,url);$('formularz').hidden=false;$('wynik').textContent='';$('formularz').querySelector('button[type="submit"]').disabled=false;
+   $('nazwa').textContent=t.nazwa;rysuj(aktywne,url);$('formularz').hidden=false;$('wynik').textContent='';$('formularz').querySelector('button[type="submit"]').disabled=false;rozpocznijStoper();
   }catch(e){$('komunikat').textContent=e.message;}
+  finally{$('start').disabled=!$('wybor').value;}
  });
- $('formularz').addEventListener('submit',e=>{e.preventDefault();ocen();});
+ $('formularz').addEventListener('submit',e=>{e.preventDefault();if(licznikOd===null)return;zatrzymajStoper();ocen();});
  }catch(e){$('wybor').innerHTML='<option value="">Nie udało się pobrać listy</option>';$('komunikat').textContent=`Błąd listy testów: ${e.message}`;}
 })();

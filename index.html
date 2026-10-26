@@ -3,16 +3,16 @@
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Testy matematyczne</title>
-<link rel="stylesheet" href="style.css?v=7">
+<link rel="stylesheet" href="style.css?v=8">
 <script>window.MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}};</script>
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 <script defer src="config.js"></script>
-<script defer src="app.js?v=7"></script>
+<script defer src="app.js?v=8"></script>
 </head>
 <body><main>
 <h1>Testy matematyczne</h1>
 <div class="toolbar"><label for="wybor">Wybierz test:</label><select id="wybor"><option value="">Ładowanie testów...</option></select><button id="start" disabled>Rozpocznij test</button></div>
 <div id="komunikat" role="status"></div>
-<form id="formularz" hidden><h2 id="nazwa"></h2><div id="zadania"></div><button type="submit">Sprawdź odpowiedzi</button></form>
+<form id="formularz" hidden><div class="test-naglowek"><h2 id="nazwa"></h2><div id="stoper" class="stoper" role="timer" aria-label="Czas rozwiązywania testu">Czas: <strong id="czas">00:00</strong></div></div><div id="zadania"></div><button type="submit">Sprawdź odpowiedzi</button></form>
 <section id="wynik" aria-live="polite"></section>
 </main></body></html>
