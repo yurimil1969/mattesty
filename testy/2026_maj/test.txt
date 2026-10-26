@@ -1,0 +1,65 @@
+@ABC
+Test z matematyki składa się z 40 zadań. Na diagramie przedstawiono procentowy podział liczby zadań w teście na zadania z pięciu działów: algebry, planimetrii, stereometrii, arytmetyki, statystyki.
+![Diagram](diagram.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba zadań z arytmetyki w tym teście jest równa
+A: 14
+B: 18
+C: 26
+D: 35
+POPRAWNA: A
+
+@ABC
+Ola otwiera swoją szafkę za pomocą czterocyfrowego kodu $$YXXY$$, gdzie $$X$$ jest największym wspólnym dzielnikiem liczb 18 i 27, a $$Y$$ jest najmniejszą wspólną wielokrotnością liczb 2 i 4.
+Jaki jest kod do otwarcia szafki Oli?  Wybierz właściwą odpowiedź spośród podanych.
+A: 4334
+B: 4994
+C: 8338
+D: 8998
+POPRAWNA:B
+
+@ABC
+Dane są cztery liczby
+$$w=\sqrt{100-64}-2$$
+$$x=12-\sqrt{64+36}$$
+$$y=\sqrt{25-16}-3$$
+$$z=7-\sqrt{9+16}$$
+Która z tych liczb jest równa 𝟎? Wybierz właściwą odpowiedź spośród podanych.
+A: w
+B: x
+C: y
+D: z
+POPRAWNA: C
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia $$2^{5}\cdot 3\cdot 3^{4}\cdot 2^{3} jest równa wartości wyrażenia
+A: $2^{8}\cdot 3^{5}$$
+B: $4^{8}\cdot 9^{5}$$
+C: $2^{15}\cdot 3^{4}$$
+D: $4^{15}\cdot 9^{4}$$
+POPRAWNA: A
+
+@ABC
+W pewnej hodowli rasowy kocur kosztuje $$x$$ złotych, a rasowa kotka kosztuje $$y$$  złotych.
+Janek kupił z tej hodowli rasowego kocura ze zniżką $$40%$$ oraz rasową kotkę ze zniżką $$20%$$.
+Które wyrażenie poprawnie opisuje, ile złotych zapłacił Janek za te koty? 
+Wybierz właściwą odpowiedź spośród podanych.
+A: $$0,4x+0,2y$$
+B: $$0,2x+0,4y$$
+C: $$0,8x+0,6y$$
+D: $$0,6x+0,8y$$
+POPRAWNA: D
+
+@LUKI
+W pudełku było jedenaście kul ponumerowanych kolejnymi liczbami naturalnymi od 1 do 11. Z tego pudełka wylosowano pięć kul. Suma liczb na dowolnych dwóch kulach, które pozostały w pudełku, jest parzysta.
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Po losowaniu w pudełku zostały wyłącznie kule ponumerowane liczbami [[AB]]
+---
+Suma liczb na pięciu wylosowanych kulach jest równa [[CD]]
+A: nieparzystymi
+B: parzystymi
+C: 30
+D: 36
+POPRAWNA: AC
