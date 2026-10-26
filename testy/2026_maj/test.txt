@@ -55,11 +55,67 @@ POPRAWNA: D
 W pudełku było jedenaście kul ponumerowanych kolejnymi liczbami naturalnymi od 1 do 11. Z tego pudełka wylosowano pięć kul. Suma liczb na dowolnych dwóch kulach, które pozostały w pudełku, jest parzysta.
 Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
 ---
-Po losowaniu w pudełku zostały wyłącznie kule ponumerowane liczbami [[AB]]
+Po losowaniu w pudełku zostały wyłącznie kule ponumerowane liczbami [[AB]] .
 ---
-Suma liczb na pięciu wylosowanych kulach jest równa [[CD]]
+Suma liczb na pięciu wylosowanych kulach jest równa [[CD]] .
 A: nieparzystymi
 B: parzystymi
 C: 30
 D: 36
 POPRAWNA: AC
+
+@ABC
+Do 10 pustych koszy włożono jabłka i pomarańcze, łącznie 400 sztuk tych owoców. W każdym koszu łączna liczba owoców jest taka sama oraz w każdym koszu liczba jabłek jest o 6 większa od liczby pomarańczy.
+Ile sztuk jabłek jest łącznie w tych 10 koszach? Wybierz właściwą odpowiedź spośród podanych.
+A: 210
+B: 230
+C: 240:
+D: 260
+POPRAWNA: B
+
+@LUKI
+Sumę $$S=1+2+3+...+n$$ kolnych liczb naturalnych od $$1$$ do $$n$$ można obliczyć ze wzoru
+$$S=\frac{1}{2}n(n+1)$$
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Suma stu kolejnych liczb naturalnych od 1 do 100 jest równa [[AB]] .
+---
+Wzór na sumę $$S$$ po poprawnym przekształceniu ma postać [[CD]] .
+A: 5001
+B: 5050
+C: $$S=\frac{1}{2}n^{2}+1$$
+D: $$S=\frac{1}{2}n^{2}+\frac{1}{2}n$$
+POPRAWNA: BD
+
+@ABC
+Średnia arytmetyczna dwóch liczb 𝑥 i 𝑦 jest równa 4, a średnia arytmetyczna trzech liczb 𝑥, 𝑦, 𝑧 jest równa 5.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba 𝑧 jest równa
+A: 4
+B: 5
+C: 6
+D: 7
+POPRAWNA: D
+
+@PF
+Dany jest trójkąt równoboczny o boku długości 2 cm.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Wysokość tego trójkąta jest równa $$\sqrt{3}$$ $$cm$$. | P
+2: Pole tego trójkąta jest równa $$\sqrt{3}$$ $$cm^{2}$$. | P
+
+@ABC
+Kąty wewnętrzne czworokąta oznaczono: $$\alpha$$, $$\beta$$, $$\gamma$$ oraz $$\delta$$. Miara kąta $$\beta$$ jest o $$70^\circ$$ większa od miary kąta $$\alpha$$, miara kąta $$\gamma$$ jest dwukrotnie większa od miary kąta $$\alpha$$. Kąt $$\delta$$ jest kątem prostym.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta $$\beta$$ jest równa
+A: $$50^\circ$$
+B: $$85^\circ$$
+C: $$120^\circ$$
+D: $$155^\circ$$
+POPRAWNA: C
+
+@PF
+Na kartce w kratkę Jurek wykonał rysunek. Na tym rysunku punkty 𝑀, 𝑊, 𝑆 oznaczają położenia odpowiednio: muzeum, wieży widokowej oraz schroniska. Wieża widokowa znajduje się 3 km na północ i 4 km na zachód od schroniska. Muzeum znajduje się 5 km na wschód od schroniska.
+![Rysunek]{rysunek.png)
+
+
+
