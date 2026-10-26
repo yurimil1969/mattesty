@@ -1,0 +1,129 @@
+@PF
+Wśród uczniów klas ósmych przeprowadzono ankietę dotyczącą ulubionych gatunków filmów. Czworo uczniów wybrało odpowiedź „żadne z wymienionych”. Procentowy rozkład odpowiedzi przedstawia diagram.
+![Diagram odpowiedzi](diagram_filmy.png)
+Oceń prawdziwość podanych zdań.
+1: W ankiecie wzięło udział 80 uczniów. | P
+2: Filmy fantasy wybrało o 20 uczniów więcej niż uczniów, którzy wybrali filmy przyrodnicze. | P
+
+@ABC
+Wartość wyrażenia $$\frac{4^2}{5}-3^2$$ jest równa:
+A: $$-\frac{29}{5}$$
+B: $$-\frac{22}{5}$$
+C: $$\frac{7}{5}$$
+D: $$\frac{61}{5}$$
+POPRAWNA: A
+
+@ABC
+Spośród wszystkich liczb trzycyfrowych o sumie cyfr równej 6 wybrano liczbę największą i liczbę najmniejszą. Suma wybranych liczb jest równa:
+A: 714
+B: 705
+C: 606
+D: 327
+POPRAWNA: B
+
+@UZ
+Liczba $$k$$ jest sumą liczb 323 i 160. Czy liczba $$k$$ jest podzielna przez 3? Wybierz odpowiedź A lub B i jej uzasadnienie 1, 2 lub 3.
+A: Tak,
+B: Nie,
+1: cyfra jedności liczby $$k$$ jest 3.
+2: żadna z liczb 323 i 160 nie dzieli się przez 3.
+3: suma cyfr 3, 4 i 8 jest liczbą podzielną przez 3.
+POPRAWNA: A3
+
+@ABC
+Dane są trzy liczby: $$x=\frac{10^{30}\cdot10^{70}}{10}$$, $$y=(10^3)^{15}\cdot10^{60}$$, $$z=10^{50}\cdot\frac{10^{80}}{10^{20}}$$. Która z tych liczb jest mniejsza od $$10^{100}$$?
+A: Tylko $$x$$.
+B: Tylko $$y$$.
+C: Tylko $$z$$.
+D: Każda z liczb $$x,y,z$$.
+POPRAWNA: A
+
+@LUKI
+Na uszycie 90 jednakowych bluzek w rozmiarze $$S$$ potrzeba tyle samo materiału, ile na uszycie 60 jednakowych bluzek w rozmiarze $$L$$. Przyjmij, że ilość potrzebnego materiału jest proporcjonalna do liczby bluzek.
+---
+Uzupełnij zdania. Wybierz A albo B oraz C albo D.
+---
+Na uszycie 240 bluzek w rozmiarze $$S$$ potrzeba tyle samo materiału, ile na uszycie [[AB]] bluzek w rozmiarze $$L$$.
+---
+Na uszycie dwóch bluzek w rozmiarze $$L$$ potrzeba tyle samo materiału, ile na uszycie [[CD]] bluzek w rozmiarze $$S$$.
+A: 160
+B: 150
+C: trzech
+D: pięciu
+POPRAWNA: AC
+
+@ABC
+Dane jest wyrażenie $$\frac{n^4-3}{6}$$ oraz liczby: $$-3, -1, 0, 1, 3$$. Dla której z danych liczb wartość wyrażenia jest najmniejsza?
+A: $$-3$$
+B: $$-1$$
+C: $$0$$
+D: $$1$$
+E: $$3$$
+POPRAWNA: C
+
+@ABC
+Liczba $$\sqrt{60}$$ jest:
+A: większa od 3 i mniejsza od 4.
+B: większa od 4 i mniejsza od 5.
+C: większa od 7 i mniejsza od 8.
+D: większa od 8 i mniejsza od 9.
+POPRAWNA: C
+
+@ABC
+Na osi liczbowej zaznaczono punkty $$P$$, $$R$$ i $$S$$. Podano współrzędne punktów $$P$$ i $$R$$. Odcinek $$PS$$ jest podzielony na 8 równych części.
+![Oś liczbowa](os_liczbowa.png)
+Współrzędna punktu $$S$$ jest równa:
+A: 10
+B: 11
+C: 13
+D: 15
+POPRAWNA: C
+
+@ABC
+Plik z prezentacją multimedialną Igora ma rozmiar 13 MB. Plik Lidki ma 2,5 razy większy rozmiar niż plik Igora. Plik Lidki ma większy rozmiar niż plik Igora o:
+A: 12 MB
+B: 19,5 MB
+C: 25 MB
+D: 32,5 MB
+POPRAWNA: B
+
+@ABC
+Ogrodnik kupił ziemię ogrodową, którą zaplanował zużyć w maju, czerwcu i lipcu. W maju zużył $$\frac13$$ masy ziemi. W czerwcu zużył połowę masy ziemi, która została. Na lipiec pozostało 60 kg. Jeśli $$x$$ oznacza początkową masę ziemi, sytuację opisuje równanie:
+A: $$(x-\frac13x)+\frac12x=60$$
+B: $$(x-\frac13x)+\frac12(x-\frac13x)=60$$
+C: $$(x-\frac13x)-\frac12x=60$$
+D: $$(x-\frac13x)-\frac12(x-\frac13x)=60$$
+POPRAWNA: D
+
+@ABC
+Trzy koleżanki kupiły bilety autobusowe w tym samym automacie. Martyna kupiła 6 biletów 75-minutowych i zapłaciła 24 zł. Weronika kupiła 4 bilety 20-minutowe i zapłaciła 12 zł. Ania kupiła 2 bilety 75-minutowe i 2 bilety 20-minutowe. Ile zapłaciła Ania?
+A: 7 zł
+B: 14 zł
+C: 19 zł
+D: 20 zł
+POPRAWNA: B
+
+@ABC
+Dany jest trójkąt $$ABC$$, w którym kąt $$BCA$$ ma miarę $$35^\circ$$. Punkt $$D$$ leży na boku $$BC$$. Odcinek $$AD$$ ma taką samą długość jak $$BD$$. Kąt $$ADC$$ ma miarę $$130^\circ$$.
+![Trójkąt ABC](trojkat.png)
+Kąt $$CAB$$ ma miarę:
+A: $$95^\circ$$
+B: $$75^\circ$$
+C: $$90^\circ$$
+D: $$80^\circ$$
+POPRAWNA: D
+
+@ABC
+W pudełku było 6 kulek zielonych i 8 niebieskich. Po dołożeniu pewnej liczby kulek zielonych prawdopodobieństwo wylosowania kulki niebieskiej wynosi $$\frac14$$. Ile kulek zielonych dołożono?
+A: 10
+B: 16
+C: 18
+D: 24
+POPRAWNA: C
+
+@PF
+Na rysunku przedstawiono trapez $$KLMN$$ zbudowany z trzech jednakowych trójkątów prostokątnych o przyprostokątnych długości 3 cm i 4 cm.
+![Trapez KLMN](trapez.png)
+Oceń prawdziwość podanych zdań.
+1: Pole trapezu $$KLMN$$ jest równe $$18\ \mathrm{cm}^2$$. | P
+2: Obwód trapezu $$KLMN$$ jest równy 18 cm. | P
