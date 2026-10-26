@@ -1,0 +1,13 @@
+@LUKI
+Deskorolka kosztuje 180 zł. Na diagramie przedstawiono kwoty, które Aldona odłożyła w styczniu, w lutym, w marcu i w kwietniu na zakup deskorolki.
+![Diagram](diagram.png)
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+W styczniu i lutym łącznie Aldona odłożyła [[AB]] kwoty potrzebnej na zakup deskorolki.
+---
+W marcu Aldona odłożyła kwotę o [[CD]] większą od kwoty odłożonej w styczniu.
+A: 45%
+B: 50%
+C: 10%
+D: 20%
+POPRAWNA: BD
