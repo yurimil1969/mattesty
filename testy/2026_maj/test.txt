@@ -41,9 +41,7 @@ D: $4^{15}\cdot 9^{4}$$
 POPRAWNA: A
 
 @ABC
-W pewnej hodowli rasowy kocur kosztuje $$x$$ złotych, a rasowa kotka kosztuje $$y$$  złotych.
-Janek kupił z tej hodowli rasowego kocura ze zniżką $$40%$$ oraz rasową kotkę ze zniżką $$20%$$.
-Które wyrażenie poprawnie opisuje, ile złotych zapłacił Janek za te koty? 
+W pewnej hodowli rasowy kocur kosztuje $$x$$ złotych, a rasowa kotka kosztuje $$y$$  złotych. Janek kupił z tej hodowli rasowego kocura ze zniżką $$40\%$$ oraz rasową kotkę ze zniżką $$20\%$$. Które wyrażenie poprawnie opisuje, ile złotych zapłacił Janek za te koty? 
 Wybierz właściwą odpowiedź spośród podanych.
 A: $$0,4x+0,2y$$
 B: $$0,2x+0,4y$$
