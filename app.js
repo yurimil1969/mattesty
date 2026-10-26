@@ -15,7 +15,7 @@ function pokazTekst(txt, baza){
   });
   // $$...$$ w plikach testu oznacza wzór w TEJ SAMEJ LINII co tekst.
   // MathJax używa tu jawnie trybu inline \( ... \), także przy złamaniu linii.
-  let html=escapeHTML(txt).replace(/\$\$([\s\S]*?)\$\$/g,(_,latex)=>'\\('+latex.trim()+'\\)').replace(/\n/g,'<br>');
+  let html=escapeHTML(txt).replace(/\$\$([\s\S]*?)\$\$/g,(_,latex)=>'\\('+latex.trim()+'\\)').replace(/\\n/g,'<br>').replace(/\n/g,'<br>');
   obrazy.forEach((img,i)=>{html=html.replace(`@@OBRAZ${i}@@`,img);});
   return `<span class="teksty">${html}</span>`;
 }
@@ -26,13 +26,15 @@ function wczytajTest(zawartosc){
   const typ=linie.shift();
   if(!['@ABC','@PF','@UZ','@LUKI'].includes(typ))throw Error(`Zadanie ${idx+1}: nieznany typ ${typ}`);
   const tresc=[],odp=[],zdania=[],uzasadnienia=[];let poprawna='';
+  let ostatnie=null; // Pozwala kontynuować również długie odpowiedzi w kolejnych wierszach.
   for(const linia of linie){
    let m;
-   if((m=linia.match(/^POPRAWNA:\s*(\S+)\s*$/i))){poprawna=m[1].toUpperCase();continue;}
-   if(typ==='@PF'&&(m=linia.match(/^([12]):\s*(.*?)\s*\|\s*([PF])$/i))){zdania.push({id:m[1],tekst:m[2],poprawna:m[3].toUpperCase()});continue;}
-   if((m=linia.match(/^([ABCDE]):\s*(.*)$/))){odp.push({id:m[1],tekst:m[2]});continue;}
-   if(typ==='@UZ'&&(m=linia.match(/^([123]):\s*(.*)$/))){uzasadnienia.push({id:m[1],tekst:m[2]});continue;}
-   tresc.push(linia);
+   if((m=linia.match(/^POPRAWNA:\s*(\S+)\s*$/i))){poprawna=m[1].toUpperCase();ostatnie=null;continue;}
+   if(typ==='@PF'&&(m=linia.match(/^([12]):\s*(.*?)\s*\|\s*([PF])$/i))){zdania.push({id:m[1],tekst:m[2],poprawna:m[3].toUpperCase()});ostatnie=zdania[zdania.length-1];continue;}
+   if((m=linia.match(/^([ABCDE]):\s*(.*)$/))){odp.push({id:m[1],tekst:m[2]});ostatnie=odp[odp.length-1];continue;}
+   if(typ==='@UZ'&&(m=linia.match(/^([123]):\s*(.*)$/))){uzasadnienia.push({id:m[1],tekst:m[2]});ostatnie=uzasadnienia[uzasadnienia.length-1];continue;}
+   if(ostatnie && linia!=='---'){ostatnie.tekst+='\n'+linia;}
+   else {tresc.push(linia);ostatnie=null;}
   }
   if(typ==='@ABC'&&(![4,5].includes(odp.length)||!odp.some(o=>o.id===poprawna)))throw Error(`Zadanie ${idx+1}: wymagane A–D i POPRAWNA`);
   if(typ==='@PF'&&(zdania.length!==2||new Set(zdania.map(z=>z.id)).size!==2))throw Error(`Zadanie ${idx+1}: wymagane dwa zdania P/F`);
