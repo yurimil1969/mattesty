@@ -1,5 +1,5 @@
 @PF
-Wśród uczniów klas ósmych przeprowadzono ankietę dotyczącą ulubionych gatunków filmów. 
+Wśród uczniów klas ósmych przeprowadzono ankietę dotyczącą ulubionych gatunków filmów.
 ![Ankieta](ankieta.png)
 Czworo uczniów wybrało odpowiedź „żadne z wymienionych”. Procentowy rozkład odpowiedzi przedstawia diagram.
 ![Diagram odpowiedzi](diagram_filmy.png)
