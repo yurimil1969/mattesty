@@ -30,11 +30,11 @@ function wczytajTest(zawartosc){
    let m;
    if((m=linia.match(/^POPRAWNA:\s*(\S+)\s*$/i))){poprawna=m[1].toUpperCase();continue;}
    if(typ==='@PF'&&(m=linia.match(/^([12]):\s*(.*?)\s*\|\s*([PF])$/i))){zdania.push({id:m[1],tekst:m[2],poprawna:m[3].toUpperCase()});continue;}
-   if((m=linia.match(/^([ABCD]):\s*(.*)$/))){odp.push({id:m[1],tekst:m[2]});continue;}
+   if((m=linia.match(/^([ABCDE]):\s*(.*)$/))){odp.push({id:m[1],tekst:m[2]});continue;}
    if(typ==='@UZ'&&(m=linia.match(/^([123]):\s*(.*)$/))){uzasadnienia.push({id:m[1],tekst:m[2]});continue;}
    tresc.push(linia);
   }
-  if(typ==='@ABC'&&(odp.length!==4||!odp.some(o=>o.id===poprawna)))throw Error(`Zadanie ${idx+1}: wymagane A–D i POPRAWNA`);
+  if(typ==='@ABC'&&(![4,5].includes(odp.length)||!odp.some(o=>o.id===poprawna)))throw Error(`Zadanie ${idx+1}: wymagane A–D i POPRAWNA`);
   if(typ==='@PF'&&(zdania.length!==2||new Set(zdania.map(z=>z.id)).size!==2))throw Error(`Zadanie ${idx+1}: wymagane dwa zdania P/F`);
   if(typ==='@LUKI'){
    if(odp.length!==4||new Set(odp.map(o=>o.id)).size!==4|| !/^[AB][CD]$/.test(poprawna))throw Error(`Zadanie ${idx+1}: wymagane A, B, C, D i POPRAWNA: np. AC`);
@@ -44,7 +44,7 @@ function wczytajTest(zawartosc){
   return {typ,tresc:tresc.join('\n'),odp:wymieszaj(odp),zdania:wymieszaj(zdania),uzasadnienia:wymieszaj(uzasadnienia),pary:typ==='@LUKI'?[wymieszaj(odp.filter(o=>'AB'.includes(o.id))),wymieszaj(odp.filter(o=>'CD'.includes(o.id)))]:[],poprawna};
  });
 }
-function litera(i){return 'ABCD'[i];}
+function litera(i){return 'ABCDE'[i];}
 function tabelaWyborow(numer,elementy,grupa,baza,etykiety){
  return `<div class="tabela-wrap"><table class="tabela-odpowiedzi"><tbody>${elementy.map((o,i)=>`<tr class="wiersz-opcji" data-wybor="${o.id}"><th scope="row" class="symbol">${etykiety[i]}</th><td class="opis-opcji">${pokazTekst(o.tekst,baza)}</td><td class="pole-wyboru"><label class="pole-radio"><input type="radio" name="z${numer}_${grupa}" value="${o.id}" aria-label="Wybierz odpowiedź ${etykiety[i]}"><span aria-hidden="true">●</span></label></td></tr>`).join('')}</tbody></table></div>`;
 }

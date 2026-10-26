@@ -1,0 +1,13 @@
+CKE maj 2022 — 15 zadań zamkniętych do Mattesty.
+
+W repozytorium yurimil1969/mattesty:
+1. Dodaj folder testy/cke_maj_2022 wraz z test.txt i czterema ilustracjami.
+2. Podmień plik app.js z tego archiwum — rozszerza ABC o możliwość 5 odpowiedzi (zadanie 7).
+3. Pozostałe pliki strony nie wymagają podmiany.
+4. Strona wykryje folder poprzez GitHub API po opublikowaniu zmian.
+
+Klucz odpowiedzi został opracowany matematycznie na podstawie treści arkusza, NIE na podstawie urzędowego pliku z kluczem CKE. Zalecana kontrola przed udostępnieniem uczniom.
+Opracowanie obejmuje zadania 1–15 (zamknięte). Zadania 16–19 są otwarte i nie mają w tym formacie automatycznego oceniania.
+
+Klucz: 1 PP, 2 A, 3 B, 4 A3, 5 A, 6 AC, 7 C, 8 C, 9 C, 10 B, 11 D, 12 B, 13 D, 14 C, 15 PP.
+Źródło: arkusz egzaminu ósmoklasisty CKE Matematyka, 25.05.2022, OMAP-100-2205.
