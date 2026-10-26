@@ -1,8 +1,0 @@
-@ABC
-Na rysunku przedstawiono trójkąt. Ile wynosi jego pole?
-![Trójkąt](trojkat.svg)
-A: $$6\,\text{cm}^2$$
-B: $$12\,\text{cm}^2$$
-C: $$7\,\text{cm}^2$$
-D: $$24\,\text{cm}^2$$
-POPRAWNA: A
