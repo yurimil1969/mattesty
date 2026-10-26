@@ -120,7 +120,25 @@ Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, alb
 1: Odległość w linii prostej schroniska od muzeum jest równa odległości w linii prostej schroniska od wieży widokowej. | P
 2: Odległość w linii prostej muzeum od wieży widokowej jest mniejsza niż 10 km. | P
 
+@ABC
+Przekątna 𝐴𝐷 dzieli pięciokąt 𝐴𝐵𝐶𝐷𝐸 na trójkąt 𝐴𝐷𝐸 i na kwadrat 𝐴𝐵𝐶𝐷 (zobacz rysunek). Pole trójkąta 𝐴𝐷𝐸 jest równe 28, a wysokość poprowadzona z wierzchołka 𝐸 na bok 𝐴𝐷 jest równa 7.
+![Pieciokat](pieciokat.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole kwadratu 𝐴𝐵𝐶𝐷 jest równe
+A: 16
+B: 32
+C: 49
+D: 64
+POPRAWNA: D
 
-
-
+@ABC
+Trzy jednakowe sześciany o krawędzi długości 5 ustawiono jeden na drugim i otrzymano prostopadłościan (zobacz rysunek).
+![Szesciany](szesciany.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole powierzchni całkowitej otrzymanego prostopadłościanu jest równe
+A: 350
+B: 375
+C: 400
+D: 450
+POPRAWNA: A
 
