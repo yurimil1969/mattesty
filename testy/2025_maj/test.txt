@@ -11,3 +11,47 @@ B: 50%
 C: 10%
 D: 20%
 POPRAWNA: BD
+
+@ABC
+Dane jest wyrażenie $$\left( 2,4 -5\frac{1}{3} \right):\left( -2 \right)$$
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość tego wyrażenia jest równa
+A: $$\left( -1 \frac{8}{15} \right)$$
+B: $$\left( -1 \frac{7}{15} \right)$$
+C: $$\left( 1 \frac{7}{15} \right)$$
+D: $$\left( 1 \frac{8}{15} \right)$$
+POPRAWNA: C
+
+@ABC
+Dane są liczby: 91, 92, 95, 97. Która z podanych liczb przy dzieleniu przez 7 daje resztę 1?
+Wybierz właściwą odpowiedź spośród podanych.
+A: 91
+B: 92
+C: 95
+D: 97
+POPRAWNA: B
+
+@LUKI
+Średnia arytmetyczna liczb $$a$$, $$b$$, $$c$$, $$d$$ jest równa 9, a średnia arytmetyczna dwóch liczb $$e$$ i $$f$$ jest równa 6.
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Suma liczb $$a$$, $$b$$, $$c$$, $$d$$ jest o [[AB]] większa od sumy liczb $$e$$ i $$f$$.
+---
+Średnia arytmetyczna liczb $$a$$, $$b$$, $$c$$, $$d$$, $$e$$ i $$f$$ jest równa [[CD]].
+A: 3
+B: 24
+C: 8
+D: 7,5
+POPRAWNA: BC
+
+@ABC
+Obwód pięciokąta przedstawionego na rysunku wyraża się wzorem $$L=2a+2b+c$$
+![Pieciokat](pieciokat.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wielkość $$a$$ wyznaczoną poprawnie z podanego wzoru opisuje równanie
+A: $$a=\frac{L-2b-c}{2}$$
+B: $$a=\frac{L-2b+c}{2}$$
+C: $$a=L+2b-c$$
+D: $$a=L-2b-c$$
+POPRAWNA: A
+
