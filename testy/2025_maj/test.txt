@@ -99,6 +99,7 @@ A: $$\frac{26}{72}$$
 B: $$\frac{27}{72}$$
 C: $$\frac{35}{72}$$
 D: $$\frac{36}{72}$$
+POPRAWNA: D
 
 @PF
 Dany jest trójkąt prostokątny $ABC$ Na środku boku $$AB$$ zaznaczono punkt $$D$$. Następnie poprowadzono odcinek $$DC$$, dzielący trójkąt $$ABC$$ na dwa trójkąty $$ADC$$ i $$DBC$$. Ponadto $$\left| AD \right|=\left|   DB\right|=30 cm$$ oraz $$\left|DC  \right|=50cm$$ (zobacz rysunek).
