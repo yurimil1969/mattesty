@@ -55,3 +55,95 @@ C: $$a=L+2b-c$$
 D: $$a=L-2b-c$$
 POPRAWNA: A
 
+@ABC
+W pudełku znajdują się wyłącznie piłki białe, fioletowe i czarne. Piłek białych jest 4 razy więcej niż fioletowych i o 3 mniej niż czarnych. Liczbę piłek fioletowych oznaczymy przez $$x$$.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Łączną liczbę wszystkich piłek w pudełku opisuje wyrażenie
+A: $$9x+3$$
+B: $$9x-3$$
+C: $$6x+3$$
+D: $$6x-3$$
+POPRAWNA: A
+
+@PF
+Dane są wyrażenia
+$$K=\frac{1}{9}\cdot \sqrt{\frac{1}{16}}-\frac{1}{16}\cdot \sqrt{\frac{1}{9}}$$ oraz $$L=9\cdot \sqrt{16} - 16\cdot \sqrt{9}$$
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli jest łaszywe.
+1: Wyrażenie $$K$$ ma wartość ujemną | F
+2: Wartość wyrażenia $$L$$ jest większa od wartości wyrażenia $$K$$. |F
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia $$8^{6} : 4^{3}$$ zapisana w postaci potęgi liczby 2 jest równa
+A: $$2^2$$
+B: $$2^3$$
+C: $$2^4$$
+D: $$2^12$$
+POPRAWNA: D
+
+@ABC
+Rowerzysta pokonał odcinek drogi o długości $$100 m$$ z prędkością $$5 \frac{m}{s}$$.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Rowerzysta pokonał ten odcinek drogi w czasie
+A: 50 sekund
+B: 20 sekund
+C: 500 zekund
+D: 200 sekund
+POPRAWNA: B
+
+@ABC
+Na loterię przygotowano 72 losy i ponumerowano je kolejnymi liczbami naturalnymi od 1 do 72. Wygrywają losy o numerach od 1 do 9 i od 46 do 72. Pozostałe losy są puste. Ada jako pierwsza wyciąga jeden los.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prawdopodobieństwo wyciągnięcia przez Adę losu pustego jest równe
+A: $$\frac{26}{72}$$
+B: $$\frac{27}{72}$$
+C: $$\frac{35}{72}$$
+D: $$\frac{36}{72}$$
+
+@PF
+Dany jest trójkąt prostokątny $ABC$ Na środku boku $$AB$$ zaznaczono punkt $$D$$. Następnie poprowadzono odcinek $$DC$$, dzielący trójkąt $$ABC$$ na dwa trójkąty $$ADC$$ i $$DBC$$. Ponadto $$\left| AD \right|=\left|   DB\right|=30 cm$$ oraz $$\left|DC  \right|=50cm$$ (zobacz rysunek).
+![Trojkat](trojkat.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli jest łaszywe.
+1: Pole trójkąta $$DBC$$ jest równe $$600cm^2$$. | P
+2: Pole tójkąta $$ABC$$ jest dwa razy większe od pola trójkąta $$ADC$$. | P
+
+@PF
+Na osi liczbowej zaznaczono punkty $$A$$, $$B$$ i $$C$$. Odcinek $$AC$ jest podzielony na 6 równych części.
+![Os_liczbowa](os_liczbowa.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F - jeśli jest łaszywe.
+1: Współrzędna punktu $$C$$ jest liczbą parzystą. | F
+2: Współrzędna punktu $$B$$ jest liczbą mniejszą od 74. | P
+
+@ABC
+Trapez $$ABCD$$ podzielono na trzy figury: kwadrat $$AEGD$$, trójkąt $$EFG$$ i romb $$FBCG$$ (zobacz rysunek). Na rysunku podano również długości boków trójkąta $$EFG$$.
+![Trapez](trapez.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Obwód trapezu $$ABCD$$ jest równy
+A: 56
+B: 72
+C: 88
+D: 120
+POPRAWNA: A
+
+@ABC
+W układzie współrzędnych $$(x,y)$$ zaznaczono trzy punkty, które są wierzchołkami równoległoboku $$ABCD$$: $$A=(-3,-2)$$, $$C=(4,2)$$, $$D=(-1,2)$$ (zobacz ryzunek).
+![Uklad](uklad.png)
+Współrzędna $$x$$ wierzchołka $$B$$, niezaznaczonego na rysunku, jest liczbą dodatnią.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Niezaznaczony na rysunku wierzchołek $$B$$ tego równoległoboku ma współrzędne
+A: $$(4,-2)$$
+B: $$(3,-2)$$
+C: $$(2,-2)$$
+D: $$(6,-2)$$
+POPRAWNA: C
+
+@ABC
+Trzy krawędzie wychodzące z jednego wierzchołka prostopadłościanu mają długości: 5, 6, 7 (zobacz rysunek).
+![Prostopadloscian](prostopadloscian.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole powierzchni całkowitej tego prostopadłościanu jest równe
+A: 107
+B: 172
+C: 210
+D: 214
+POPRAWNA: D
