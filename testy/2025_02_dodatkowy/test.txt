@@ -1,0 +1,145 @@
+@ABC
+Robert rozpoczął czytanie książki we wtorek i zakończył w sobotę. W tabeli podano liczbę stron, które przeczytał w kolejnych dniach tygodnia:
+Wtorek – 55 stron; środa – 68 stron; czwartek – 72 strony; piątek – 49 stron.
+Od wtorku do soboty włącznie Robert czytał dziennie średnio 60 stron tej książki.
+Ile stron tej książki Robert przeczytał w sobotę? Wybierz właściwą odpowiedź.
+A: 46
+B: 56
+C: 75
+D: 76
+POPRAWNA: B
+
+@ABC
+Zapisywano kolejno liczby według następującej zasady:
+• liczbę 6 zapisano jako pierwszą;
+• każda następna zapisana liczba była połową liczby poprzedniej.
+Piątą liczbą, którą zapisano, jest
+A: $$\frac{3}{2}$$
+B: $$\frac{3}{4}$$
+C: $$\frac{3}{8}$$
+D: $$\frac{3}{16}$$
+POPRAWNA: C
+
+@ABC
+Martyna przez 20 minut słuchała kolejno nagrań ćwiczeń językowych. Czas odtwarzania nagrania każdego ćwiczenia w całości jest równy 250 sekund.
+Ile najwięcej ćwiczeń w całości Martyna mogła wysłuchać w tym czasie? Wybierz właściwą odpowiedź.
+A: 4
+B: 5
+C: 8
+D: 12
+POPRAWNA: A
+
+@PF
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Iloraz $$9^4:3^2$$ jest równy $$3^2$$. | F
+2: Liczba $$3^8$$ jest trzy razy większa od iloczynu $$3^5\cdot3^2$$. | P
+
+@PF
+Dane są liczby: $$k=69$$ oraz $$m=83$$.
+Oceń prawdziwość podanych zdań.
+1: Suma liczb $$k$$ i $$m$$ jest podzielna przez 4. | P
+2: Iloczyn liczb $$k$$ i $$m$$ jest podzielny przez 3. | P
+
+@LUKI
+W pudełku jest 18 kart jednakowej wielkości. Na każdej z nich narysowano jedną figurę geometryczną. Wśród tych kart:
+• jest pięć kart z trójkątem równobocznym o boku długości 6 cm;
+• są cztery karty z kwadratem o boku długości 7 cm;
+• jest dziewięć kart z pięciokątem foremnym o boku długości 2 cm.
+Z pudełka wylosowano jedną kartę.
+---
+Uzupełnij zdania. Wybierz odpowiedź A albo B oraz C albo D.
+---
+Prawdopodobieństwo, że wylosowano kartę z narysowanym kwadratem, jest równe [[AB]].
+---
+Prawdopodobieństwo, że wylosowano kartę z narysowaną figurą o obwodzie mniejszym od 18 cm, jest równe [[CD]].
+A: $$\frac{1}{18}$$
+B: $$\frac{2}{9}$$
+C: $$\frac{1}{2}$$
+D: $$\frac{7}{9}$$
+POPRAWNA: BC
+
+@ABC
+Jurek przejechał rowerem 12 km, co stanowiło $$\frac{2}{3}$$ długości zaplanowanej trasy.
+Połowa zaplanowanej trasy ma długość
+A: 6 km
+B: 8 km
+C: 9 km
+D: 10 km
+POPRAWNA: C
+
+@ABC
+Dane jest równanie $$5+\frac{1-x}{2}=2(x-1)$$.
+Rozwiązaniem tego równania jest liczba
+A: 2
+B: $$2\frac{1}{2}$$
+C: 3
+D: $$4\frac{1}{3}$$
+POPRAWNA: C
+
+@PF
+Dane są dwie figury: kwadrat $$K$$ i romb $$R$$. Długość boku kwadratu $$K$$ jest równa 8. Iloczyn długości przekątnych rombu $$R$$ jest równy 64.
+Oceń prawdziwość podanych zdań.
+1: Pole rombu $$R$$ jest równe 32. | P
+2: Pole kwadratu $$K$$ jest równe polu rombu $$R$$. | F
+
+@ABC
+Karol wie, że suma miar kątów wewnętrznych trójkąta jest równa $$180^\circ$$, i na tej podstawie zapisał trzy wnioski.
+Wniosek 1. Skoro suma miar kątów wewnętrznych trójkąta jest równa $$180^\circ$$, to trójkąt nie może mieć dwóch kątów wewnętrznych prostych ani dwóch kątów rozwartych.
+Wniosek 2. Ponieważ trójkąt nie może mieć dwóch kątów wewnętrznych rozwartych, więc nie istnieje trójkąt rozwartokątny równoramienny.
+Wniosek 3. Jeśli suma miar dwóch kątów wewnętrznych trójkąta jest większa od $$90^\circ$$, to trzeci kąt wewnętrzny tego trójkąta jest ostry.
+Które z wniosków zapisanych przez Karola są prawdziwe?
+A: Tylko 1. i 3.
+B: Tylko 1. i 2.
+C: Tylko 2. i 3.
+D: 1., 2. i 3.
+POPRAWNA: A
+
+@ABC
+Kasia jest 3 razy starsza od Ani. Ola jest o 2 lata starsza od Kasi. Przez $$x$$ oznaczymy wiek Ani.
+Łączny wiek Kasi, Ani i Oli opisuje wyrażenie
+A: $$3x+5$$
+B: $$4x+2$$
+C: $$5x+2$$
+D: $$7x+2$$
+POPRAWNA: D
+
+@LUKI
+Na rysunku przedstawiono trapez prostokątny oraz podano długości trzech jego boków.
+![Trapez prostokątny](rysunek12.png)
+---
+Uzupełnij zdania. Wybierz odpowiedź A albo B oraz C albo D.
+---
+Pole tego trapezu jest równe [[AB]].
+---
+Najdłuższy bok tego trapezu ma długość [[CD]].
+A: $$30\ \text{cm}^2$$
+B: $$60\ \text{cm}^2$$
+C: 9 cm
+D: 10 cm
+POPRAWNA: AD
+
+@ABC
+Pole powierzchni całkowitej sześcianu jest równe $$150\ \text{cm}^2$$.
+Objętość tego sześcianu jest równa
+A: $$25\ \text{cm}^3$$
+B: $$125\ \text{cm}^3$$
+C: $$625\ \text{cm}^3$$
+D: $$750\ \text{cm}^3$$
+POPRAWNA: B
+
+@PF
+W układzie współrzędnych $$(x,y)$$ zaznaczono kolejne wierzchołki $$A$$ i $$B$$ pewnego czworokąta $$ABCD$$. Punkty $$A$$ i $$B$$ są punktami kratowymi. Pozostałe wierzchołki mają współrzędne $$C=(3,y_C)$$ oraz $$D=(-1,y_D)$$, gdzie $$y_C$$ jest liczbą całkowitą dodatnią oraz $$y_C=y_D$$.
+![Układ współrzędnych](rysunek14.png)
+Oceń prawdziwość podanych zdań.
+1: Czworokąt $$ABCD$$ jest równoległobokiem. | P
+2: Dla $$y_C=y_D=3$$ czworokąt $$ABCD$$ jest rombem. | F
+
+@ABC
+Sześcienną kostkę o objętości $$1\ \text{dm}^3$$ włożono do prostopadłościennego pudełka, którego krawędzie oznaczono literami $$a,b,c$$ (zobacz rysunek). Długość krawędzi sześciennej kostki stanowi $$\frac13$$ długości krawędzi $$a$$, $$\frac12$$ długości krawędzi $$b$$ i $$\frac25$$ długości krawędzi $$c$$.
+![Kostka w pudełku](rysunek15.png)
+Objętość tego pudełka jest równa
+A: $$12\ \text{dm}^3$$
+B: $$18\ \text{dm}^3$$
+C: $$10\ \text{dm}^3$$
+D: $$15\ \text{dm}^3$$
+POPRAWNA: D
