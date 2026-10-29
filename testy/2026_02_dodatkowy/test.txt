@@ -1,0 +1,151 @@
+@ABC
+Na stronie internetowej szkoły zamieszczono diagram słupkowy przedstawiający liczbę finalistów konkursów przedmiotowych z sześciu kolejnych lat.
+![Diagram liczby finalistów](rysunek01.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Średnia roczna liczba finalistów w okresie tych sześciu lat była równa
+A: 6,5
+B: 7
+C: 7,8
+D: 8
+POPRAWNA: A
+
+@LUKI
+Kwotę 1 800 złotych przeznaczoną na nagrody w pewnym konkursie podzielono na trzy części w stosunku $$6:3:1$$, odpowiednio: za I, za II i za III miejsce.
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Wartość nagrody za III miejsce jest równa [[AB]].
+---
+Wartość nagrody za I miejsce jest [[CD]] razy większa od wartości nagrody za II miejsce.
+A: 180 złotych
+B: 200 złotych
+C: 3
+D: 2
+POPRAWNA: AD
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Rozwiązaniem równania $$3(x+2)=6-(x-1)$$ jest liczba
+A: $$-\frac{3}{2}$$
+B: $$-1$$
+C: $$\frac{1}{4}$$
+D: $$\frac{1}{2}$$
+POPRAWNA: C
+
+@ABC
+W tabeli zapisano cztery wyrażenia arytmetyczne:
+I. $$2^{24}:2$$
+II. $$4^{12}\cdot 4$$
+III. $$2^{25}:8$$
+IV. $$(4\cdot 8)^4$$
+Które z tych wyrażeń ma największą wartość? Wybierz właściwą odpowiedź spośród podanych.
+A: I
+B: II
+C: III
+D: IV
+POPRAWNA: B
+
+@ABC
+W pewnej liczbie czterocyfrowej suma cyfr jest równa 3.
+Ile jest liczb czterocyfrowych spełniających ten warunek? Wybierz właściwą odpowiedź spośród podanych.
+A: 3
+B: 6
+C: 9
+D: 10
+POPRAWNA: D
+
+@ABC
+Dane jest wyrażenie arytmetyczne $$\frac{\sqrt{100}-\sqrt{36}}{\sqrt[3]{-8}}$$.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość podanego wyrażenia jest równa
+A: 4
+B: 2
+C: $$-2$$
+D: $$-4$$
+POPRAWNA: C
+
+@ABC
+Trzy kolejne liczby naturalne można zapisać w postaci: $$n,\ (n+1),\ (n+2)$$.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Suma każdych trzech kolejnych liczb naturalnych jest liczbą podzielną przez
+A: 2
+B: 3
+C: 5
+D: 6
+POPRAWNA: B
+
+@LUKI
+Poniżej przedstawiono kalendarz na kwiecień w pewnym roku.
+![Kalendarz kwietnia](rysunek08.png)
+Wybieramy losowo jeden dzień tego miesiąca.
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Prawdopodobieństwo, że wybrany dzień tego miesiąca to wtorek, jest równe [[AB]].
+---
+Prawdopodobieństwo, że numer wybranego dnia tego miesiąca będzie liczbą podzielną przez [[CD]], jest równe $$\frac{2}{15}$$.
+A: $$\frac{1}{5}$$
+B: $$\frac{1}{6}$$
+C: 4
+D: 7
+POPRAWNA: BD
+
+@ABC
+Dane są cztery wyrażenia arytmetyczne:
+I. $$1-2\frac{2}{3}\cdot 3$$
+II. $$3{,}4-2\frac{1}{4}$$
+III. $$3\frac{3}{4}-4{,}25$$
+IV. $$6:1{,}2$$
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczbami całkowitymi są wartości wyrażeń
+A: I oraz II
+B: II oraz III
+C: I oraz IV
+D: III oraz IV
+POPRAWNA: C
+
+@ABC
+Ala wyruszyła na wycieczkę rowerową o godzinie 11:40. Przejechała trasę o długości 28 km i dotarła do celu tego samego dnia o godzinie 13:00.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prędkość, z jaką Ala na rowerze pokonała trasę wycieczki, była równa
+A: $$10{,}5\ \frac{\text{km}}{\text{h}}$$
+B: $$12\ \frac{\text{km}}{\text{h}}$$
+C: $$16{,}8\ \frac{\text{km}}{\text{h}}$$
+D: $$21\ \frac{\text{km}}{\text{h}}$$
+POPRAWNA: D
+
+@PF
+W prostokątnym układzie współrzędnych $$(x,y)$$ dane są odcinki $$AB$$ oraz $$CD$$.
+Końcami tych odcinków są – odpowiednio – punkty: $$A=(0,0),\ B=(0,4)$$ oraz $$C=(-2,0),\ D=(6,0)$$.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Odcinek $$AB$$ ma taką samą długość jak odcinek $$CD$$. | F
+2: Odcinek $$AB$$ jest prostopadły do odcinka $$CD$$. | P
+
+@ABC
+Bok $$AD$$ równoległoboku $$ABCD$$ ma długość 6, a przekątna $$BD$$ prostopadła do tego boku ma długość 8 (zobacz rysunek).
+![Równoległobok ABCD](rysunek12.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Obwód równoległoboku $$ABCD$$ jest równy
+A: 32
+B: 48
+C: 24
+D: 22
+POPRAWNA: A
+
+@PF
+Z ośmiu jednakowych patyczków zbudowano figurę $$S$$ (zobacz rysunek). Ta figura ma dwie osie symetrii w płaszczyźnie rysunku.
+![Figura S z patyczków](rysunek13.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Po usunięciu z figury $$S$$ patyczków $$AF$$ i $$AB$$, bez przesuwania pozostałych patyczków, otrzymamy figurę, która ma jedną oś symetrii. | P
+2: Po usunięciu z figury $$S$$ patyczka $$FE$$, bez przesuwania pozostałych patyczków, otrzymamy figurę, która nie ma osi symetrii. | F
+
+@ABC
+Na rysunku przedstawiono siatkę pewnego sześcianu. Obwód tej siatki jest równy 70 cm.
+![Siatka sześcianu](rysunek14.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole powierzchni całkowitej tego sześcianu jest równe
+A: $$100\ \text{cm}^2$$
+B: $$120\ \text{cm}^2$$
+C: $$125\ \text{cm}^2$$
+D: $$150\ \text{cm}^2$$
+POPRAWNA: D
