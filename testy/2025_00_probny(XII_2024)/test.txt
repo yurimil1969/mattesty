@@ -1,0 +1,143 @@
+@LUKI
+Poniżej zamieszczono fragment etykiety pewnego opakowania śmietany.
+![Etykieta](rysunek01.png)
+---
+Uzupełnij zdania. Wybierz odpowiedź A albo B oraz C albo D.
+---
+W opakowaniu zawierającym 200 g tej śmietany jest [[AB]] dag białka.
+---
+Masa tłuszczu w dowolnej porcji tej śmietany jest [[CD]] razy większa od masy soli.
+A: 0,6
+B: 0,06
+C: 12
+D: 120
+POPRAWNA: AD
+
+@PF
+Oceń prawdziwość podanych zdań.
+1: Wartość wyrażenia $$5^2\cdot5^3\cdot5^5$$ jest równa $$(5^5)^2$$. | P
+2: Wyrażenia $$\frac{2^3\cdot3^3}{6}$$ oraz $$\left(\frac{12}{5}:\frac{2}{5}\right)^2$$ mają taką samą wartość. | P
+
+@ABC
+Wyrażenie $$2(a-2b)-(a-b)(2-b)+b^2$$ można przekształcić równoważnie do postaci
+A: $$ab$$
+B: $$ab-2b$$
+C: $$b^2-2b-ab$$
+D: $$b^2-6b+a-2$$
+E: $$b^2+ab$$
+POPRAWNA: B
+
+@LUKI
+Uzupełnij zdania. Wybierz odpowiedź A albo B oraz C albo D.
+---
+Liczba 4 jest mniejsza od liczby [[AB]].
+---
+Liczba 4 jest większa od liczby [[CD]].
+A: $$2\sqrt{3}$$
+B: $$3\sqrt{2}$$
+C: $$\sqrt{2}+2$$
+D: $$6-\sqrt{3}$$
+POPRAWNA: BC
+
+@ABC
+W pudełku znajdują się kule różniące się tylko kolorem: białe, czerwone i niebieskie.
+Kul białych jest pięć, kul czerwonych jest trzy razy więcej niż białych, a kul niebieskich jest o pięć mniej niż czerwonych. Z pudełka losujemy jedną kulę.
+Prawdopodobieństwo wylosowania kuli białej jest równe
+A: $$\frac{1}{2}$$
+B: $$\frac{1}{3}$$
+C: $$\frac{1}{5}$$
+D: $$\frac{1}{6}$$
+POPRAWNA: D
+
+@ABC
+Dana jest nierówność $$x\geq -3$$.
+Na którym rysunku poprawnie zaznaczono na osi liczbowej zbiór wszystkich liczb rzeczywistych $$x$$ spełniających tę nierówność?
+A: ![Oś liczbowa A](rysunek06A.png)
+B: ![Oś liczbowa B](rysunek06B.png)
+C: ![Oś liczbowa C](rysunek06C.png)
+D: ![Oś liczbowa D](rysunek06D.png)
+POPRAWNA: C
+
+@PF
+Uczniom klas ósmych zadano pytanie: „Z którego portalu internetowego korzystasz najczęściej?”. Każdy uczeń wskazał jeden portal. Procentowy rozkład odpowiedzi przedstawiono na diagramie. Portal F wskazało 72 uczniów.
+![Diagram portali](rysunek07.png)
+Oceń prawdziwość podanych zdań.
+1: Portal Y wskazało 40 uczniów. | P
+2: Portal I wskazało o 8 uczniów mniej niż uczniów, którzy wskazali portal S. | P
+
+@LUKI
+Dane są cztery liczby: $$x,y,z,a$$. Wiadomo, że $$x=6$$, $$a=4$$ oraz średnia arytmetyczna trzech liczb $$x,y,z$$ jest równa 12.
+---
+Uzupełnij zdania. Wybierz odpowiedź A albo B oraz C albo D.
+---
+Średnia arytmetyczna dwóch liczb $$y$$ i $$z$$ jest równa [[AB]].
+---
+Średnia arytmetyczna czterech liczb $$x,y,z,a$$ jest równa [[CD]].
+A: 6
+B: 15
+C: 8
+D: 10
+POPRAWNA: BD
+
+@ABC
+Prostokąt $$ABCD$$ podzielono prostą $$EF$$ na kwadrat $$AEFD$$ i prostokąt $$EBCF$$ (zobacz rysunek). Obwód prostokąta $$EBCF$$ jest równy 36 cm, a długość boku $$EB$$ jest równa 10 cm.
+![Podział prostokąta](rysunek09.png)
+Pole kwadratu $$AEFD$$ jest równe
+A: $$8\ \text{cm}^2$$
+B: $$16\ \text{cm}^2$$
+C: $$32\ \text{cm}^2$$
+D: $$64\ \text{cm}^2$$
+POPRAWNA: D
+
+@ABC
+Na rysunku przedstawiono proste $$a,b,c,d,e$$ oraz zaznaczono miary niektórych kątów. Proste $$a,b,c$$ są wzajemnie równoległe. Proste $$d$$ i $$e$$ są wzajemnie prostopadłe i przecinają się w punkcie $$A$$ leżącym na prostej $$b$$.
+![Proste i kąty](rysunek10.png)
+Miara kąta $$\alpha$$ jest równa
+A: $$38^\circ$$
+B: $$45^\circ$$
+C: $$52^\circ$$
+D: $$60^\circ$$
+POPRAWNA: C
+
+@ABC
+Dany jest romb, którego przekątne mają długość 24 cm i 18 cm.
+Pole tego rombu jest równe
+A: $$108\ \text{cm}^2$$
+B: $$216\ \text{cm}^2$$
+C: $$225\ \text{cm}^2$$
+D: $$432\ \text{cm}^2$$
+POPRAWNA: B
+
+@PF
+Na rysunku przedstawiono dwa trójkąty $$ABC$$ i $$KLM$$, podano długości boków $$AC$$ i $$KL$$ oraz zaznaczono miary niektórych kątów.
+![Dwa trójkąty](rysunek12.png)
+Oceń prawdziwość podanych zdań.
+1: Trójkąt $$KLM$$ nie jest równoramienny. | F
+2: Trójkąty $$ABC$$ i $$KLM$$ są przystające. | P
+
+@ABC
+Dany jest graniastosłup prawidłowy czworokątny, w którym krawędź podstawy ma długość 7. Krawędź boczna tego graniastosłupa jest dwa razy dłuższa od krawędzi podstawy.
+Objętość tego graniastosłupa jest równa
+A: $$686$$
+B: $$\frac{686}{3}$$
+C: $$343$$
+D: $$\frac{343}{3}$$
+POPRAWNA: A
+
+@ABC
+Odcinkowy pomiar prędkości polega na wyznaczeniu średniej prędkości samochodu na określonym odcinku drogi. Na początku i na końcu takiego odcinka ustawiono znaki drogowe informujące o rozpoczęciu i zakończeniu pomiaru.
+![Znaki](rysunek14.png)
+Samochód osobowy przejechał w 2 minuty taki odcinek drogi o długości 3 km.
+Wyznaczona prędkość tego samochodu na objętym pomiarem odcinku drogi była równa
+A: $$40\ \frac{\text{km}}{\text{h}}$$
+B: $$60\ \frac{\text{km}}{\text{h}}$$
+C: $$90\ \frac{\text{km}}{\text{h}}$$
+D: $$150\ \frac{\text{km}}{\text{h}}$$
+POPRAWNA: C
+
+@PF
+Dany jest okrąg $$\mathcal{O}$$, którego średnica ma długość 20 cm. Odcinek $$AB$$ ma długość 12 cm i jest cięciwą tego okręgu. Punkty $$A$$ i $$B$$ połączono z punktem $$S$$, który jest środkiem tego okręgu (zobacz rysunek).
+![Okrąg i cięciwa](rysunek15.png)
+Oceń prawdziwość podanych zdań.
+1: Obwód trójkąta $$ASB$$ jest równy 36 cm. | F
+2: Długość okręgu $$\mathcal{O}$$ jest równa $$20\pi$$ cm. | P
