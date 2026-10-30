@@ -1,0 +1,152 @@
+@LUKI
+Rowerzysta uczestniczył w rajdzie rowerowym. Całą trasę rajdu pokonał w ciągu czterech dni. W tabeli poniżej przedstawiono długości kolejnych etapów trasy, które przebył każdego dnia.
+![Tabela długości etapów rajdu](rysunek01.png)
+---
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+W poniedziałek i wtorek rowerzysta przejechał łącznie [[AB]] długości całej trasy rajdu.
+---
+W środę rowerzysta przejechał [[CD]] długości całej trasy rajdu.
+A: więcej niż 50%
+B: mniej niż 50%
+C: $$\frac14$$
+D: $$\frac15$$
+POPRAWNA: AD
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia $$\frac57-\frac27\cdot\left(-\frac32\right)$$ jest równa
+A: $$-\frac{15}{14}$$
+B: $$-\frac9{14}$$
+C: $$\frac27$$
+D: $$\frac87$$
+POPRAWNA: D
+
+@ABC
+Trzej właściciele firmy – Adam, Janusz i Oskar – kupili samochód dostawczy za kwotę 154 000 zł. Kwoty wpłacone przez Adama, Janusza i Oskara są – odpowiednio – w stosunku $$2:3:6$$.
+Jaką kwotę wpłacił Janusz? Wybierz właściwą odpowiedź spośród podanych.
+A: 14 000 zł
+B: 28 000 zł
+C: 42 000 zł
+D: 84 000 zł
+POPRAWNA: C
+
+@PF
+Na przedstawionym poniżej fragmencie osi liczbowej oznaczono cztery punkty: R, S, T, W. Współrzędne punktów S i W są równe 287 i 311. Odcinek RW jest podzielony na pięć równych części.
+![Oś liczbowa z punktami R S T W](rysunek04.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Współrzędne punktów R i T różnią się o 24. | P
+2: Współrzędna punktu R jest równa 271. | P
+
+@ABC
+Pociąg o długości $$l=150\ \mathrm{m}$$ przejechał przez tunel o długości $$d=350\ \mathrm{m}$$ ze stałą prędkością $$v=20\ \frac{\mathrm{m}}{\mathrm{s}}$$.
+![Pociąg przejeżdżający przez tunel](rysunek05.png)
+Ile czasu upłynęło od momentu wjazdu czoła pociągu do tunelu (rysunek 1.) do momentu wyjazdu z tunelu końca ostatniego wagonu (rysunek 2.)? Wybierz właściwą odpowiedź spośród podanych.
+A: 7,5 s
+B: 17,5 s
+C: 25 s
+D: 36 s
+POPRAWNA: C
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia $$\sqrt3\left(\sqrt{27}-\sqrt{12}\right)$$ jest równa
+A: $$\sqrt3$$
+B: 3
+C: $$\sqrt{45}$$
+D: $$\sqrt{69}$$
+POPRAWNA: B
+
+@ABC
+Która z podanych niżej liczb nie jest równa $$3^{15}$$? Wybierz właściwą odpowiedź spośród podanych.
+A: $$3\cdot3^{14}$$
+B: $$3^9\cdot3^6$$
+C: $$3^{17}:9$$
+D: $$(3^5)^3$$
+E: $$9^{15}:3$$
+POPRAWNA: E
+
+@ABC
+Na diagramie przedstawiono wyniki (w centymetrach) uzyskane przez zawodników uczestniczących w finale konkursu skoku wzwyż.
+![Diagram wyników skoku wzwyż](rysunek08.png)
+Ilu zawodników uzyskało wynik wyższy od średniej arytmetycznej wyników wszystkich uczestników finału tego konkursu? Wybierz właściwą odpowiedź spośród podanych.
+A: 2
+B: 3
+C: 4
+D: 5
+POPRAWNA: B
+
+@ABC
+Na kartonowej siatce sześcianu Mariusz nakleił 6 figur tak, jak pokazano na rysunku. Następnie z tej siatki skleił kostkę.
+![Siatka sześcianu z figurami](rysunek09.png)
+Który rysunek przedstawia kostkę sklejoną przez Mariusza? Wybierz właściwą odpowiedź spośród podanych.
+A: ![Kostka A](rysunek09A.png)
+B: ![Kostka B](rysunek09B.png)
+C: ![Kostka C](rysunek09C.png)
+D: ![Kostka D](rysunek09D.png)
+POPRAWNA: C
+
+@ABC
+Dany jest wzór opisujący pole trapezu: $$P=\frac{(x+y)\cdot h}{2}$$, gdzie $$x$$ i $$y$$ oznaczają długości podstaw trapezu, a $$h$$ oznacza wysokość trapezu.
+Którym równaniem opisano $$x$$ wyznaczone poprawnie z tego wzoru? Wybierz właściwą odpowiedź spośród podanych.
+A: $$x=\frac P2-hy$$
+B: $$x=\frac P{2h}-y$$
+C: $$x=2P-hy$$
+D: $$x=\frac{2P}{h}-y$$
+POPRAWNA: D
+
+@PF
+Kąt ostry rombu ma miarę $$60^\circ$$, a bok tego rombu ma długość równą 4 cm.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Krótsza przekątna dzieli ten romb na dwa trójkąty równoboczne. | P
+2: Pole tego rombu jest równe $$8\sqrt3\ \mathrm{cm}^2$$. | P
+
+@LUKI
+Na kartce w kratkę Tomek narysował według pewnej reguły cztery łamane (patrz rysunek).
+![Cztery łamane na kartce w kratkę](rysunek12.png)
+Długości tych łamanych zapisał w tabeli.
+![Tabela długości łamanych](tabela12.png)
+Kolejne łamane – od numeru V – Tomek rysował zgodnie z tą samą regułą.
+---
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Łamana o długości 48 ma numer [[AB]].
+---
+Łamana o numerze VIII ma długość [[CD]].
+A: VI
+B: VII
+C: 63
+D: 80
+POPRAWNA: AD
+
+@ABC
+W grudniu, w trzech sklepach sportowych: Alfa, Beta i Gamma, sprzedawano łyżwy figurowe w tej samej cenie. Na wiosnę w każdym sklepie ogłoszono obniżkę cen tych łyżew. Poniżej przedstawiono oferty tych sklepów.
+![Oferty sklepów Alfa Beta i Gamma](rysunek13.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Po obniżce cena łyżew figurowych była
+A: najniższa w sklepie Alfa.
+B: najniższa w sklepie Beta.
+C: najniższa w sklepie Gamma.
+D: taka sama w trzech sklepach.
+POPRAWNA: A
+
+@ABC
+Dany jest trójkąt równoboczny ABC o boku długości 10 cm. W tym trójkącie poprowadzono wysokość CD.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Obwód trójkąta ADC jest równy
+A: $$10\sqrt3\ \mathrm{cm}$$
+B: $$20\sqrt3\ \mathrm{cm}$$
+C: $$(5+5\sqrt3)\ \mathrm{cm}$$
+D: $$(15+5\sqrt3)\ \mathrm{cm}$$
+POPRAWNA: D
+
+@ABC
+W trójkącie KLM poprowadzono wysokość KN. Długości niektórych odcinków opisano za pomocą wyrażeń algebraicznych: $$|KL|=2y$$, $$|LM|=2x$$, $$|KN|=k+1$$.
+![Trójkąt KLM z wysokością KN](rysunek15.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole trójkąta KLM opisano wyrażeniem
+A: $$x(k+1)$$
+B: $$2x(k+1)$$
+C: $$y(k+1)$$
+D: $$2y(k+1)$$
+POPRAWNA: A
