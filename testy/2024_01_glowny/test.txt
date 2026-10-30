@@ -1,0 +1,142 @@
+@PF
+Ala codziennie uczyła się języka hiszpańskiego. Na diagramie przedstawiono, ile czasu przeznaczyła na naukę tego języka w kolejnych dniach tygodnia od poniedziałku do soboty.
+![Diagram czasu nauki](rysunek01.png)
+Oceń prawdziwość podanych zdań.
+1: Ala przez cztery dni – od poniedziałku do czwartku – na naukę języka hiszpańskiego przeznaczyła łącznie 2 godziny i 10 minut. | P
+2: Na naukę języka hiszpańskiego w sobotę Ala przeznaczyła o 40% czasu mniej niż w piątek. | P
+
+@ABC
+Wypisano ułamki spełniające łącznie następujące warunki:
+• mianownik każdego z nich jest równy 4;
+• licznik każdego z nich jest liczbą naturalną większą od mianownika;
+• każdy z tych ułamków jest większy od liczby 3 oraz mniejszy od liczby 5.
+Wszystkich ułamków spełniających powyższe warunki jest
+A: sześć.
+B: siedem.
+C: osiem.
+D: dziewięć.
+POPRAWNA: B
+
+@PF
+Średnia arytmetyczna trzech liczb: 12, 14, $$k$$, jest równa 16.
+Oceń prawdziwość podanych zdań.
+1: Liczba $$k$$ jest równa 22. | P
+2: Średnia arytmetyczna liczb: 12, 14, $$k$$, 11, 17, jest większa od 16. | F
+
+@LUKI
+Dane są dwie liczby $$x$$ i $$y$$ zapisane za pomocą wyrażeń arytmetycznych:
+$$x=\frac45\cdot\left(-\frac43\right)\qquad y=\frac45+\left(-\frac43\right)$$
+---
+Uzupełnij zdania. Wybierz odpowiedź A albo B oraz C albo D.
+---
+Liczba $$y$$ jest liczbą [[AB]].
+---
+Liczba $$x$$ jest [[CD]] od liczby $$y$$.
+A: ujemną
+B: dodatnią
+C: mniejsza
+D: większa
+POPRAWNA: AC
+
+@ABC
+Dany jest trapez $$ABCD$$, w którym bok $$AB$$ jest równoległy do boku $$DC$$. W tym trapezie poprowadzono odcinek $$EC$$ równoległy do boku $$AD$$, podano miary dwóch kątów oraz oznaczono kąt $$\alpha$$ (zobacz rysunek).
+![Trapez z kątami](rysunek05.png)
+Kąt $$\alpha$$ ma miarę
+A: $$55^\circ$$
+B: $$50^\circ$$
+C: $$45^\circ$$
+D: $$20^\circ$$
+POPRAWNA: A
+
+@ABC
+Dane jest równanie $$5x=\frac{y}{w}$$, gdzie $$x,y,w$$ są różne od 0.
+Zadaniem Pawła było przekształcenie tego równania tak, aby wyznaczyć $$x$$, $$y$$, $$w$$. Paweł otrzymał trzy równania:
+I. $$x=\frac{y}{5w}$$
+II. $$y=\frac{5x}{w}$$
+III. $$w=\frac{y}{5x}$$
+Które z równań I–III są poprawnymi przekształceniami równania $$5x=\frac{y}{w}$$?
+A: I i II
+B: II i III
+C: I i III
+D: I, II, III
+POPRAWNA: C
+
+@PF
+Oceń prawdziwość podanych zdań.
+1: Iloczyn $$3\cdot9^5$$ jest równy wartości wyrażenia $$3^{11}$$. | P
+2: Wyrażenie $$\frac{2^8\cdot2^7}{2^{10}}$$ można zapisać w postaci $$2^5$$. | P
+
+@ABC
+Karolina kupiła jedno pudełko balonów. W pudełku było 10 balonów czerwonych, 8 niebieskich, 6 zielonych i 8 żółtych.
+Karolina wyjmowała losowo po jednym balonie z pudełka. Pierwsze dwa wyjęte balony były w kolorze czerwonym.
+Jakie jest prawdopodobieństwo, że trzeci balon losowo wyjęty przez Karolinę będzie w kolorze czerwonym?
+A: $$\frac13$$
+B: $$\frac5{16}$$
+C: $$\frac4{15}$$
+D: $$\frac14$$
+POPRAWNA: C
+
+@ABC
+Wyrażenie $$x(x+4)-3(2x-5)$$ można przekształcić równoważnie do postaci
+A: $$x^2+2x-5$$
+B: $$x^2-2x+5$$
+C: $$x^2+2x-15$$
+D: $$x^2-2x+15$$
+POPRAWNA: D
+
+@ABC
+Podróż pociągiem z Olsztyna do Gdyni planowo trwa 2 godziny i 54 minuty. Pewnego dnia pociąg wyjechał z Olsztyna punktualnie o wyznaczonej godzinie, ale przyjechał do Gdyni z czterominutowym opóźnieniem o godzinie 17:31.
+Pociąg wyjechał z Olsztyna o godzinie
+A: 14:27
+B: 14:41
+C: 14:31
+D: 14:33
+POPRAWNA: D
+
+@PF
+Na wykresie przedstawiono zależność pola pomalowanej powierzchni od ilości zużytej farby. Pole pomalowanej powierzchni jest wprost proporcjonalne do ilości zużytej farby.
+![Wykres zużycia farby](rysunek11.png)
+Oceń prawdziwość podanych zdań.
+1: 18 litrów tej farby wystarczy na pomalowanie 180 m² powierzchni. | P
+2: Na pomalowanie 125 m² powierzchni wystarczy 12 litrów tej farby. | F
+
+@ABC
+W układzie współrzędnych $$(x,y)$$ zaznaczono pięć punktów $$P_1, P_2, P_3, P_4, P_5$$ (zobacz rysunek). Wszystkie współrzędne tych punktów są liczbami całkowitymi. Punkt $$P_1$$ ma współrzędne $$(-1,-2)$$.
+![Punkty w układzie współrzędnych](rysunek12.png)
+Jeżeli współrzędną $$x$$ punktu $$P_1$$ zwiększymy o 4, a współrzędną $$y$$ tego punktu zwiększymy o 3, to otrzymamy współrzędne punktu
+A: $$P_2$$
+B: $$P_3$$
+C: $$P_4$$
+D: $$P_5$$
+POPRAWNA: A
+
+@ABC
+Na rysunku przedstawiono prostokąt o bokach długości $$a$$ i $$b$$ podzielony na sześć kwadratów.
+![Prostokąt podzielony na sześć kwadratów](rysunek13.png)
+Stosunek długości boków $$a:b$$ tego prostokąta jest równy
+A: $$6:5$$
+B: $$5:4$$
+C: $$4:3$$
+D: $$3:2$$
+POPRAWNA: B
+
+@PF
+W trójkącie prostokątnym $$ABC$$ przyprostokątną $$AC$$ wydłużono o 7 cm, a przyprostokątną $$AB$$ wydłużono o 12 cm i otrzymano trójkąt prostokątny równoramienny $$ADE$$ o polu równym $$200\ \text{cm}^2$$ (zobacz rysunek).
+![Trójkąty ABC i ADE](rysunek14.png)
+Oceń prawdziwość podanych zdań.
+1: Przyprostokątna trójkąta $$ADE$$ jest równa 20 cm. | P
+2: Pole trójkąta $$ABC$$ jest równe $$52\ \text{cm}^2$$. | P
+
+@LUKI
+Dany jest ostrosłup prawidłowy czworokątny. Pole powierzchni całkowitej tej bryły jest równe $$P$$, a jedna ściana boczna ma pole równe $$\frac29P$$.
+---
+Uzupełnij zdania. Wybierz odpowiedź A albo B oraz C albo D.
+---
+Pole powierzchni bocznej tego ostrosłupa jest równe [[AB]].
+---
+Pole powierzchni podstawy tego ostrosłupa jest dwa razy [[CD]] niż pole powierzchni jego jednej ściany bocznej.
+A: $$\frac69P$$
+B: $$\frac89P$$
+C: mniejsze
+D: większe
+POPRAWNA: BC
