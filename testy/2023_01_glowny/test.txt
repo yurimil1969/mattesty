@@ -1,0 +1,153 @@
+@PF
+Poniżej przedstawiono składniki potrzebne do przygotowania ciasta na 8 gofrów.
+![Przepis na gofry](rysunek01.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Do przygotowania ciasta na 40 gofrów, przy zachowaniu właściwych proporcji odpowiednich składników, potrzeba 10 jajek. | P
+2: Do przygotowania ciasta na 72 gofry, przy zachowaniu właściwych proporcji odpowiednich składników, potrzeba 12 szklanek mleka. | P
+
+@ABC
+Dostęp do pliku jest chroniony hasłem **T** złożonym z dwóch liczb dwucyfrowych oddzielonych literą T. Pierwsza liczba hasła to sześcian liczby 4, a druga to najmniejszy wspólny mianownik ułamków $$\frac{1}{15}$$ i $$\frac{1}{25}$$.
+Jakie jest hasło do pliku? Wybierz właściwą odpowiedź spośród podanych.
+A: 24T45
+B: 24T75
+C: 64T45
+D: 64T75
+POPRAWNA: D
+
+@ABC
+Dane są cztery wyrażenia:
+$$G=2x^2+2$$
+$$H=2x^2+2x$$
+$$J=2x^2-2$$
+$$K=2x^2-2x$$
+Jedno z tych wyrażeń przyjmuje wartość 0 dla $$x=1$$ oraz dla $$x=-1$$.
+Które to wyrażenie? Wybierz właściwą odpowiedź spośród podanych.
+A: $$G$$
+B: $$H$$
+C: $$J$$
+D: $$K$$
+POPRAWNA: C
+
+@ABC
+Marta układała książki na dwóch półkach o tych samych wymiarach wewnętrznych. Wszystkie książki były jednakowych rozmiarów.
+Pierwszą półkę (I) całkowicie wypełniła 12 książkami.
+Na drugiej półce (II) postanowiła ustawić książki jedna przy drugiej na całej szerokości półki tak, aby zostało nad nimi wolne miejsce, w sposób pokazany na rysunku.
+Uwaga: na rysunku przedstawiono całkowite wypełnienie książkami pierwszej półki (I) oraz częściowe wypełnienie książkami drugiej półki (II).
+![Książki na półkach](rysunek04.png)
+Ile najwięcej książek Marta mogła zmieścić na drugiej półce (II) przy wskazanym sposobie ustawienia? Wybierz właściwą odpowiedź spośród podanych.
+A: 7
+B: 8
+C: 10
+D: 11
+POPRAWNA: B
+
+@LUKI
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Wyrażenie $$\sqrt{81}-\sqrt{49}$$ jest równe [[AB]].
+---
+Wyrażenie $$\sqrt{144}+\sqrt{25}$$ jest równe [[CD]].
+A: 2
+B: $$\sqrt{32}$$
+C: 13
+D: 17
+POPRAWNA: AD
+
+@ABC
+W sadzie rosną drzewa owocowe: grusze i jabłonie. Liczba grusz jest o 40% większa od liczby jabłoni. Jabłoni jest o 50 mniej niż grusz.
+Ile jabłoni rośnie w tym sadzie? Wybierz właściwą odpowiedź spośród podanych.
+A: 20
+B: 30
+C: 70
+D: 125
+POPRAWNA: D
+
+@LUKI
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Iloraz $$\frac{10^8}{5^8}$$ jest równy [[AB]].
+---
+Iloczyn $$2^6\cdot25^3$$ jest równy [[CD]].
+A: $$5^8$$
+B: $$2^8$$
+C: $$50^9$$
+D: $$10^6$$
+POPRAWNA: BD
+
+@ABC
+Liczbę $$x$$ powiększono o 7, a następnie otrzymany wynik zwiększono 4-krotnie.
+Liczbę $$y$$ zwiększono 5-krotnie, a otrzymany wynik powiększono o 3.
+Która para wyrażeń algebraicznych poprawnie opisuje wykonane działania? Wybierz właściwą odpowiedź spośród podanych.
+A: $$4(x+7)$$ oraz $$5y+3$$
+B: $$4x+7$$ oraz $$5y+3$$
+C: $$4(x+7)$$ oraz $$5(y+3)$$
+D: $$4x+7$$ oraz $$5(y+3)$$
+POPRAWNA: A
+
+@ABC
+Pewien ostrosłup ma 16 wierzchołków.
+Ile wierzchołków ma graniastosłup o takiej samej podstawie, jaką ma ten ostrosłup? Wybierz właściwą odpowiedź spośród podanych.
+A: 17
+B: 30
+C: 32
+D: 45
+POPRAWNA: B
+
+@ABC
+Na planie miasta odległość w linii prostej od punktu oznaczającego przystanek autobusowy Dworzec do punktu oznaczającego przystanek autobusowy Galeria jest równa 8 cm.
+Plan miasta został wykonany w skali $$1:4000$$.
+![Plan miasta](rysunek10.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Odległość w linii prostej w terenie między tymi przystankami jest równa
+A: 320 m
+B: 500 m
+C: 3200 m
+D: 5000 m
+POPRAWNA: A
+
+@PF
+Z urny, w której jest wyłącznie 18 kul białych i 12 kul czarnych, losujemy 1 kulę.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Prawdopodobieństwo wylosowania kuli białej jest równe $$\frac{3}{5}$$. | P
+2: Prawdopodobieństwo wylosowania kuli czarnej jest mniejsze od $$\frac{1}{3}$$. | F
+
+@ABC
+W prostokącie $$ABCD$$ punkty $$E$$ i $$F$$ są środkami boków $$BC$$ i $$CD$$ (zobacz rysunek).
+Długość odcinka $$EC$$ jest równa 6 cm, a długość odcinka $$EF$$ jest równa 10 cm.
+![Prostokąt ABCD](rysunek12.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Obwód prostokąta $$ABCD$$ jest równy
+A: 64 cm
+B: 56 cm
+C: 40 cm
+D: 28 cm
+POPRAWNA: B
+
+@PF
+Agata na dużej kartce w kratkę narysowała figurę złożoną z 40 połączonych odcinków, które kolejno ponumerowała liczbami naturalnymi od 1 do 40.
+Na rysunku przedstawiono fragment tej figury, złożony z ośmiu początkowych odcinków. Kolejne odcinki tej figury Agata narysowała według tej samej reguły, którą zastosowała do narysowania odcinków 1–8.
+Uwaga: wszystkie komórki kratki są takimi samymi kwadratami.
+![Figura z odcinków](rysunek13.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Proste zawierające odcinki o numerach 1 oraz 7 są wzajemnie prostopadłe. | P
+2: Proste zawierające odcinki o numerach 5 oraz 33 są wzajemnie równoległe. | P
+
+@UZ
+Na rysunku przedstawiono trzy figury: kwadrat $$F_1$$, kwadrat $$F_2$$ i prostokąt $$F_3$$, oraz podano ich wymiary.
+![Trzy figury](rysunek14.png)
+Czy z figur $$F_1$$, $$F_2$$, $$F_3$$ można ułożyć, bez rozcinania tych figur, kwadrat $$K$$ o polu $$49\text{ cm}^2$$?
+Wybierz odpowiedź A albo B i jej uzasadnienie spośród 1., 2. albo 3.
+A: Tak,
+B: Nie,
+1: suma obwodów figur $$F_2$$ i $$F_3$$ jest równa obwodowi kwadratu $$K$$.
+2: suma pól figur $$F_1$$, $$F_2$$ i $$F_3$$ jest równa $$49\text{ cm}^2$$.
+3: suma długości dowolnych boków figur $$F_1$$, $$F_2$$ i $$F_3$$ nie jest równa 7 cm.
+POPRAWNA: B3
+
+@PF
+W czworokącie $$ABCD$$ boki $$AB$$, $$CD$$ i $$DA$$ mają równe długości, a kąt $$BCD$$ ma miarę $$131^\circ$$.
+Przekątna $$AC$$ dzieli ten czworokąt na trójkąt równoboczny i na trójkąt równoramienny (zobacz rysunek).
+![Czworokąt ABCD](rysunek15.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Kąt $$ABC$$ ma miarę $$60^\circ$$. | F
+2: Kąt $$DAB$$ ma miarę $$98^\circ$$. | P
