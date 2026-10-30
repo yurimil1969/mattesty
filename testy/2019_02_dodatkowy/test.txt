@@ -49,8 +49,9 @@ POPRAWNA: C
 
 @PF
 Na rysunku przedstawiono kształt i wymiary elementu układanki, w którym sąsiednie boki są do siebie prostopadłe.
+![Element układanki](rysunek06A.png)
 Z takich elementów zbudowano dwie figury przedstawione na poniższym rysunku.
-![Element układanki i dwie figury](rysunek06.png)
+![Dwie figury](rysunek06B.png)
 Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
 1: Obwód figury I jest o $$2b$$ większy od obwodu figury II. | F
 2: Pole figury II jest równe $$12a^2$$. | P
