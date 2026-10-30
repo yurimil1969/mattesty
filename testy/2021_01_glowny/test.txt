@@ -1,0 +1,172 @@
+@PF
+Na diagramie słupkowym przedstawiono liczby medali zdobytych na czterech letnich igrzyskach olimpijskich przez reprezentację Polski.
+![Diagram zdobytych medali](rysunek01.png)
+Oceń prawdziwość podanych zdań, dotyczących medali zdobytych przez reprezentację Polski podczas letnich igrzysk olimpijskich w latach 2004–2016. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Liczba zdobytych złotych medali stanowi więcej niż jedną trzecią liczby wszystkich zdobytych medali. | F
+2: Podczas letnich igrzysk olimpijskich średnio zdobywano 3 złote medale. | P
+
+@ABC
+Dane są cztery liczby $$x$$, $$y$$, $$t$$, $$u$$ zapisane za pomocą wyrażeń arytmetycznych:
+$$x=-62{,}5+30$$
+$$y=-14{,}4-12{,}6$$
+$$t=-12:0{,}3$$
+$$u=-8{,}02\cdot6$$
+Która z tych liczb jest największa? Wybierz właściwą odpowiedź spośród podanych.
+A: $$x$$
+B: $$y$$
+C: $$t$$
+D: $$u$$
+POPRAWNA: B
+
+@LUKI
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Wartość wyrażenia $$\frac{3}{7}+\frac{3}{5}$$ jest liczbą [[AB]].
+---
+Wartość wyrażenia $$\frac{3}{7}-\frac{3}{5}$$ jest liczbą [[CD]].
+A: mniejszą od 1
+B: większą od 1
+C: ujemną
+D: dodatnią
+POPRAWNA: BC
+
+@ABC
+Z reguł działań na potęgach wynika, że:
+$$(200\,000)^3=(2\cdot100\,000)^3=(2\cdot10^5)^3=2^3\cdot10^{15}$$
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Z tych samych reguł wynika, że liczba $$(60\,000\,000)^3$$ jest równa
+A: $$6^3\cdot10^{21}$$
+B: $$6\cdot10^{21}$$
+C: $$6^3\cdot10^{10}$$
+D: $$6\cdot10^{10}$$
+POPRAWNA: A
+
+@UZ
+Czy iloczyn dowolnych pięciu kolejnych liczb całkowitych jest podzielny przez 10?
+Wybierz odpowiedź A albo B i jej uzasadnienie spośród 1., 2. albo 3.
+A: Tak,
+B: Nie,
+1: wśród dowolnych pięciu kolejnych liczb całkowitych nie musi znajdować się liczba podzielna przez 10.
+2: wśród dowolnych pięciu kolejnych liczb całkowitych jest co najmniej jedna liczba nieparzysta i co najmniej jedna liczba parzysta.
+3: wśród dowolnych pięciu kolejnych liczb całkowitych jest co najmniej jedna liczba podzielna przez 5 i co najmniej jedna liczba parzysta.
+POPRAWNA: A3
+
+@LUKI
+Podatek od dochodów za rok 2016 w Polsce był obliczany według sposobów przedstawionych w poniższej tabeli.
+![Tabela obliczania podatku](rysunek06.png)
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+W 2016 roku podstawa obliczenia podatku dla pana Jana wyniosła 84 500 zł. Wysokość podatku (w zł) od dochodu pana Jana opisuje wyrażenie [[AB]].
+---
+W 2016 roku podstawa obliczenia podatku dla pani Zofii wyniosła 97 300 zł. Wysokość podatku (w zł) od dochodu pani Zofii opisuje wyrażenie [[CD]].
+A: $$0{,}18\cdot84\,500-556{,}02$$
+B: $$0{,}18\cdot(84\,500-556{,}02)$$
+C: $$14\,839{,}02+0{,}32\cdot85\,528$$
+D: $$14\,839{,}02+0{,}32\cdot(97\,300-85\,528)$$
+POPRAWNA: AD
+
+@ABC
+Do liczby $$-\sqrt{10}$$ dodajemy 5.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Otrzymany wynik jest liczbą
+A: większą od 1.
+B: dodatnią mniejszą od 1.
+C: mniejszą od $$-8$$.
+D: ujemną większą od $$-8$$.
+POPRAWNA: A
+
+@LUKI
+Informacje do zadania.
+Trójki liczb naturalnych $$a$$, $$b$$ i $$c$$, które spełniają warunek $$a^2+b^2=c^2$$, nazywamy trójkami pitagorejskimi. Niektóre z nich znajdujemy z wykorzystaniem wzorów:
+$$a=2n+1$$
+$$b=2n(n+1)$$
+$$c=2n^2+2n+1$$
+gdzie $$n$$ oznacza dowolną liczbę naturalną $$(n\geq1)$$.
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Liczba $$a$$ zawsze będzie [[AB]].
+---
+Liczby $$b$$ i $$c$$ różnią się o [[CD]].
+A: parzysta
+B: nieparzysta
+C: 1
+D: $$n$$
+POPRAWNA: BC
+
+@ABC
+Informacje do zadania.
+Trójki liczb naturalnych $$a$$, $$b$$ i $$c$$, które spełniają warunek $$a^2+b^2=c^2$$, nazywamy trójkami pitagorejskimi. Niektóre z nich znajdujemy z wykorzystaniem wzorów:
+$$a=2n+1$$
+$$b=2n(n+1)$$
+$$c=2n^2+2n+1$$
+gdzie $$n$$ oznacza dowolną liczbę naturalną $$(n\geq1)$$.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Jeżeli najmniejsza z liczb $$a$$, $$b$$ i $$c$$ jest równa 9, to największa z tych liczb jest równa
+A: 41
+B: 73
+C: 145
+D: 181
+POPRAWNA: A
+
+@ABC
+Ala kupiła trzy zeszyty i blok rysunkowy. Średnia arytmetyczna cen tych czterech artykułów była równa 6 zł. Zeszyty kosztowały łącznie 15 zł.
+Ile kosztował blok rysunkowy? Wybierz właściwą odpowiedź spośród podanych.
+A: 4 zł
+B: 5 zł
+C: 8 zł
+D: 9 zł
+POPRAWNA: D
+
+@LUKI
+W pewnej loterii wśród 150 losów co szósty był wygrywający, a pozostałe losy były puste. Wyciągnięto 30 losów i żaden z nich nie był wygrywający.
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Na loterię przygotowano [[AB]] losów wygrywających.
+---
+Wyciągnięto jeszcze jeden los. Prawdopodobieństwo tego, że będzie to los wygrywający, wynosi [[CD]].
+A: 120
+B: 25
+C: $$\frac{25}{120}$$
+D: $$\frac{25}{125}$$
+POPRAWNA: BC
+
+@ABC
+W trójkącie $$ABC$$ narysowano dwie wysokości: $$CD$$ i $$AE$$, jak na rysunku. Kąt rozwarty pomiędzy tymi wysokościami jest równy $$138^\circ$$.
+![Trójkąt ABC z wysokościami](rysunek12.png)
+Jaką miarę ma kąt $$\alpha$$ zaznaczony na rysunku? Wybierz właściwą odpowiedź spośród podanych.
+A: $$38^\circ$$
+B: $$42^\circ$$
+C: $$45^\circ$$
+D: $$48^\circ$$
+POPRAWNA: D
+
+@ABC
+Listewkę o długości 50 cm planowano pociąć na równe części. Iwona zaproponowała podział na kawałki po 5 cm i zaznaczyła na listewce czerwonym kolorem linie cięcia. Agata chciała podzielić tę samą listewkę na części po 2 cm i linie cięcia zaznaczyła na zielono.
+Ile razy linia czerwona pokrywała się z linią zieloną? Wybierz właściwą odpowiedź spośród podanych.
+A: 5
+B: 4
+C: 3
+D: 2
+POPRAWNA: B
+
+@ABC
+Skrzynia ma kształt prostopadłościanu. Podłoga skrzyni ma wymiary 1,5 m i 1,2 m, a wysokość skrzyni jest równa 1 m. Piasek wsypany do skrzyni zajmuje $$\frac34$$ jej pojemności.
+Ile metrów sześciennych piasku wsypano do skrzyni? Wybierz właściwą odpowiedź spośród podanych.
+A: $$1{,}8\ \mathrm{m}^3$$
+B: $$0{,}45\ \mathrm{m}^3$$
+C: $$1{,}35\ \mathrm{m}^3$$
+D: $$2{,}4\ \mathrm{m}^3$$
+POPRAWNA: C
+
+@ABC
+Staś ma dwa jednakowe klocki w kształcie ostrosłupa prawidłowego czworokątnego, każdy o polu powierzchni całkowitej $$80\ \mathrm{cm}^2$$. Podstawa i ściana boczna klocka mają równe pola. Staś skleił oba klocki podstawami tak, jak na rysunku.
+![Dwa ostrosłupy sklejone podstawami](rysunek15.png)
+Jakie pole powierzchni ma bryła otrzymana przez Stasia? Wybierz właściwą odpowiedź spośród podanych.
+A: $$112\ \mathrm{cm}^2$$
+B: $$128\ \mathrm{cm}^2$$
+C: $$144\ \mathrm{cm}^2$$
+D: $$160\ \mathrm{cm}^2$$
+POPRAWNA: B
