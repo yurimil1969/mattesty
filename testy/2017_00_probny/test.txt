@@ -62,7 +62,6 @@ Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, alb
 2: W 16 rzutach standardową sześcienną kostką do gry można otrzymać łącznie ponad 100 oczek. | F
 
 @ABC
-Informacje do zadań 8. i 9.
 Punkt kratowy to miejsce przecięcia się linii kwadratowej siatki. Pole wielokąta, którego wierzchołki znajdują się w punktach kratowych kwadratowej siatki na płaszczyźnie, można obliczyć ze wzoru Picka:
 $$P=W+\frac12B-1$$
 gdzie $$P$$ oznacza pole wielokąta, $$W$$ – liczbę punktów kratowych leżących wewnątrz wielokąta, a $$B$$ – liczbę punktów kratowych leżących na brzegu tego wielokąta.
@@ -77,7 +76,6 @@ D: 7,5
 POPRAWNA: C
 
 @LUKI
-Informacje do zadań 8. i 9.
 Punkt kratowy to miejsce przecięcia się linii kwadratowej siatki. Pole wielokąta, którego wierzchołki znajdują się w punktach kratowych kwadratowej siatki na płaszczyźnie, można obliczyć ze wzoru Picka:
 $$P=W+\frac12B-1$$
 gdzie $$P$$ oznacza pole wielokąta, $$W$$ – liczbę punktów kratowych leżących wewnątrz wielokąta, a $$B$$ – liczbę punktów kratowych leżących na brzegu tego wielokąta.
