@@ -1,0 +1,148 @@
+@ABC
+Adam zapisał, w przypadkowej kolejności, podane w programie radiowym wartości temperatury odnotowane pewnego zimowego dnia o godzinie 20:30 w Zakopanem, w Wiśle, w Karpaczu i w Szklarskiej Porębie (zobacz rysunek).
+![Zapisane temperatury](rysunek01.png)
+Temperatura w Karpaczu była o $$6^\circ\mathrm{C}$$ wyższa niż w Szklarskiej Porębie, a w Wiśle była niższa niż w Zakopanem.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Temperaturę $$-5^\circ\mathrm{C}$$ zanotowano w
+A: Szklarskiej Porębie.
+B: Zakopanem.
+C: Karpaczu.
+D: Wiśle.
+POPRAWNA: D
+
+@ABC
+Dane są cztery liczby:
+I. $$-9{,}25$$    II. $$-1{,}25$$    III. $$1{,}25$$    IV. $$9{,}25$$
+Do której z liczb I–IV należy dodać liczbę $$(-4)$$, aby otrzymać liczbę $$(-5{,}25)$$? Wybierz właściwą odpowiedź spośród podanych.
+A: I
+B: II
+C: III
+D: IV
+POPRAWNA: B
+
+@PF
+Oceń prawdziwość podanych zdań.
+1: $$\left(\frac{1}{5}\right)^8>\left(\frac{1}{5}\right)^6$$ | F
+2: $$2^2\cdot\left(\frac{1}{2}\right)^2=(-2)^3\cdot\left(-\frac{1}{2}\right)^3$$ | P
+
+@LUKI
+W pudełku są kulki czerwone, zielone i niebieskie. Kulek czerwonych jest trzy razy więcej niż zielonych i o dwie mniej niż niebieskich.
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+W pudełku najmniej jest kulek [[AB]].
+---
+Jeśli liczbę kulek zielonych oznaczymy przez $$x$$, to liczbę wszystkich kulek w pudełku opisuje wyrażenie [[CD]].
+A: niebieskich
+B: zielonych
+C: $$7x-2$$
+D: $$7x+2$$
+POPRAWNA: BD
+
+@ABC
+Na osi liczbowej zaznaczono sześć liczb całkowitych. Cztery z tych liczb oznaczono literami: $$k,m,t,p$$.
+![Oś liczbowa](rysunek05.png)
+Które z poniższych wyrażeń ma wartość równą 1? Wybierz właściwą odpowiedź spośród podanych.
+A: $$k+p$$
+B: $$k+m+t$$
+C: $$k+t$$
+D: $$k+m+p$$
+POPRAWNA: D
+
+@UZ
+Czy liczba $$27\ 733$$ jest podzielna przez 3? Wybierz odpowiedź A albo B i jej uzasadnienie spośród 1., 2. albo 3.
+A: Tak,
+B: Nie,
+1: cyfrą jedności tej liczby jest 3.
+2: suma cyfr tej liczby nie jest podzielna przez 3.
+3: dwie ostatnie cyfry tej liczby tworzą liczbę podzielną przez 3.
+POPRAWNA: B2
+
+@PF
+Kąty $$\alpha,\beta,\gamma$$ pewnego trójkąta spełniają dwa warunki: $$\alpha+\beta=130^\circ$$ i $$\alpha+\gamma=120^\circ$$.
+Oceń prawdziwość podanych zdań.
+1: Kąt $$\alpha$$ ma miarę $$70^\circ$$. | P
+2: Różnica miar między kątem największym a kątem najmniejszym w tym trójkącie jest równa $$20^\circ$$. | P
+
+@LUKI
+W pewnym opakowaniu są płatki owsiane z rodzynkami. Masa zawartości tego opakowania jest równa 320 g, przy czym 15% tej masy stanowią rodzynki. Ola zmieszała całą zawartość tego opakowania z 80 g orzechów.
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+W mieszance przygotowanej przez Olę masa orzechów jest większa o [[AB]] od masy rodzynek.
+---
+Mieszanka przygotowana przez Olę zawiera [[CD]] orzechów.
+A: 32 g
+B: 48 g
+C: 20%
+D: 25%
+POPRAWNA: AC
+
+@PF
+Antek jest zawodnikiem szkolnej drużyny koszykówki. Od początku sezonu jego drużyna zagrała w sześciu meczach. Antek w tych sześciu meczach zdobył łącznie 84 punkty.
+Oceń prawdziwość podanych zdań.
+1: Średnia liczby punktów zdobytych przez Antka w jednym meczu jest równa 14. | P
+2: Średnia liczby punktów zdobytych przez Antka w jednym meczu będzie równa 15, jeśli w siódmym meczu zdobędzie on 21 punktów. | P
+
+@LUKI
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Liczba $$\sqrt{6\frac14}$$ jest równa [[AB]].
+---
+Liczba $$\sqrt[3]{0{,}064}$$ jest równa [[CD]].
+A: $$2\frac12$$
+B: $$3\frac12$$
+C: 0,4
+D: 0,8
+POPRAWNA: AC
+
+@ABC
+W układzie współrzędnych $$(x,y)$$ narysowano trapez $$EFGH$$. Wszystkie współrzędne wierzchołków $$E,F,G,H$$ są liczbami całkowitymi.
+![Trapez w układzie współrzędnych](rysunek11.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Punkty o współrzędnych $$(1,4)$$ i $$(2,0)$$ to wierzchołki
+A: $$G$$ i $$H$$
+B: $$G$$ i $$E$$
+C: $$F$$ i $$H$$
+D: $$F$$ i $$E$$
+POPRAWNA: B
+
+@ABC
+Na planie miasta wykonanym w skali $$1:5000$$ odległość w linii prostej między punktem oznaczającym wejście do papugarni a punktem oznaczającym wejście do muzeum zabawek jest równa 8,4 cm.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+W terenie odległość między wejściami do tych obiektów jest w linii prostej równa
+A: 4,2 m
+B: 42 m
+C: 420 m
+D: 4200 m
+POPRAWNA: C
+
+@ABC
+Na rysunku przedstawiono kwadrat podzielony na 6 jednakowych prostokątów. Obwód każdego z tych prostokątów jest równy 28.
+![Kwadrat podzielony na prostokąty](rysunek13.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Obwód kwadratu jest równy
+A: 48
+B: 84
+C: 96
+D: 144
+POPRAWNA: A
+
+@ABC
+Działka ma powierzchnię 200 arów. Warzywa zajmują 130 arów, jabłonie rosną na $$\frac15$$ pozostałej części działki, a resztę działki zajmują śliwy.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Śliwy zajmują powierzchnię
+A: 14 arów.
+B: 30 arów.
+C: 56 arów.
+D: 70 arów.
+POPRAWNA: C
+
+@ABC
+W pudełku są klocki w kształcie ostrosłupów trójkątnych i sześcianów. Klocków w kształcie ostrosłupów trójkątnych jest trzy razy więcej niż klocków sześciennych. Wszystkie klocki mają łącznie 720 krawędzi.
+Ile klocków w kształcie sześcianu jest w tym pudełku? Wybierz właściwą odpowiedź spośród podanych.
+A: 24
+B: 30
+C: 39
+D: 40
+POPRAWNA: A
