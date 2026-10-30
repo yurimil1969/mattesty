@@ -1,0 +1,147 @@
+@PF
+Na diagramie przedstawiono liczbę butelek z wodą dostarczonych do sklepu osiedlowego oraz liczbę butelek z wodą sprzedanych w tym sklepie przez trzy kolejne dni: poniedziałek, wtorek i środę.
+![Diagram dostaw i sprzedaży](rysunek01.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Przez te trzy dni w sklepie osiedlowym sprzedano łącznie 190 butelek z wodą. | P
+2: Liczba butelek z wodą sprzedanych w poniedziałek stanowi $$\frac{3}{4}$$ liczby butelek z wodą dostarczonych w tym dniu. | P
+
+@ABC
+Z tasiemki o długości $$\frac{2}{3}$$ m odcięto kawałek o długości pół metra.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pozostała po odcięciu część tasiemki ma długość
+A: mniejszą od 15 cm.
+B: większą od 15 cm, ale mniejszą od 16 cm.
+C: równą 16 cm.
+D: większą od 16 cm, ale mniejszą od 17 cm.
+POPRAWNA: D
+
+@ABC
+W pewnym zoo mieszkają słoń afrykański o masie 6 ton oraz góralek skalny o masie 3 kg.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Masa słonia afrykańskiego jest większa niż masa góralka skalnego
+A: 20 razy.
+B: 200 razy.
+C: 2000 razy.
+D: 20000 razy.
+POPRAWNA: C
+
+@LUKI
+Dane są cztery liczby: $$0{,}7$$, $$-0{,}65$$, $$-0{,}456$$, $$0{,}234$$.
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Suma największej i najmniejszej spośród tych liczb jest równa [[AB]].
+---
+Na osi liczbowej odległość między punktami odpowiadającymi liczbom $$-0{,}65$$ oraz $$-0{,}456$$ jest równa [[CD]].
+A: 1,35
+B: 0,05
+C: 0,194
+D: 1,106
+POPRAWNA: BC
+
+@PF
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Wartość wyrażenia $$(4^4)^3$$ jest równa $$4^7$$. | F
+2: Wartości wyrażeń $$5^3\cdot10^3$$ oraz $$5^6\cdot2^3$$ są równe. | P
+
+@ABC
+W naczyniu znajdowało się $$k$$ litrów wody. Marcin odlał z tego naczynia $$\frac{1}{3}$$ tej objętości wody, a następnie Magda odlała 3 litry wody.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Objętość wody wyrażoną w litrach, która pozostała w naczyniu, opisuje wyrażenie
+A: $$k-\left(\frac{1}{3}\cdot k+3\right)$$
+B: $$\frac{1}{3}\cdot k-3$$
+C: $$k-\frac{1}{3}-3$$
+D: $$k-\left(\frac{1}{3}\cdot k-3\right)$$
+POPRAWNA: A
+
+@ABC
+Tydzień przed rozpoczęciem zajęć student zapłacił 800 zł za kurs żeglarski. W razie rezygnacji z kursu organizator nie zwraca pełnej kwoty wpłaty, tylko oddaje jej część, zgodnie z poniższą tabelą.
+![Tabela wysokości zwrotu wpłaty](rysunek07.png)
+Student zrezygnował z kursu w trzecim dniu zajęć.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Organizator zwrócił studentowi kwotę
+A: 120 zł
+B: 560 zł
+C: 680 zł
+D: 760 zł
+POPRAWNA: C
+
+@ABC
+Podczas spaceru w czasie każdych 10 sekund Ewa robi taką samą liczbę $$a$$ kroków.
+Ile kroków zrobi Ewa w czasie 3 minut tego spaceru? Wybierz właściwą odpowiedź spośród podanych.
+A: $$6a$$
+B: $$18a$$
+C: $$30a$$
+D: $$180a$$
+POPRAWNA: B
+
+@LUKI
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Jest dokładnie [[AB]] liczb naturalnych $$m$$ spełniających warunek $$\sqrt{110}<m<\sqrt{300}$$.
+---
+Są dokładnie [[CD]] liczby naturalne $$k$$ spełniające warunek $$\sqrt[3]{10}<k<\sqrt[3]{127}$$.
+A: 7
+B: 6
+C: 4
+D: 3
+POPRAWNA: AD
+
+@ABC
+Spośród wszystkich liczb dwucyfrowych dodatnich losujemy jedną liczbę.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prawdopodobieństwo wylosowania liczby podzielnej przez 20 jest równe
+A: $$\frac{2}{45}$$
+B: $$\frac{1}{25}$$
+C: $$\frac{1}{2}$$
+D: $$\frac{4}{99}$$
+POPRAWNA: A
+
+@ABC
+Samochód przejechał ze stałą prędkością trasę o długości 18 kilometrów w czasie 12 minut.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Samochód przejechał tę trasę z prędkością
+A: $$30\ \frac{\mathrm{km}}{\mathrm{h}}$$
+B: $$60\ \frac{\mathrm{km}}{\mathrm{h}}$$
+C: $$90\ \frac{\mathrm{km}}{\mathrm{h}}$$
+D: $$120\ \frac{\mathrm{km}}{\mathrm{h}}$$
+POPRAWNA: C
+
+@PF
+Prostokąt podzielono na dwa identyczne trapezy równoramienne i dwa trójkąty w sposób pokazany na rysunku.
+![Prostokąt podzielony na figury](rysunek12.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Trójkąty, które powstały w sposób pokazany na rysunku, są równoramienne. | P
+2: Gdyby kąty ostre trapezów miały miarę $$30^\circ$$, to powstałe trójkąty byłyby równoboczne. | P
+
+@PF
+Dane są dwa równoległoboki: $$ABCD$$ oraz $$ECFD$$ (zobacz rysunek).
+![Dwa równoległoboki](rysunek13.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Bok $$DC$$ równoległoboku $$ABCD$$ jest jedną z wysokości równoległoboku $$ECFD$$. | P
+2: Pole równoległoboku $$ABCD$$ jest równe polu równoległoboku $$ECFD$$. | P
+
+@ABC
+Stosunek długości trzech boków trójkąta jest równy $$2:4:5$$. Obwód tego trójkąta jest równy 33 cm.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Najkrótszy bok tego trójkąta ma długość
+A: 2 cm
+B: 3 cm
+C: 6 cm
+D: 11 cm
+POPRAWNA: C
+
+@LUKI
+Na rysunku przedstawiono graniastosłup prosty trójkątny oraz jego podstawę. Wysokość tego graniastosłupa jest równa 1 cm.
+![Graniastosłup i jego podstawa](rysunek15.png)
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Pole powierzchni bocznej tego graniastosłupa jest [[AB]] pole jednej podstawy.
+---
+Pole powierzchni całkowitej tego graniastosłupa jest równe [[CD]].
+A: takie samo jak
+B: dwa razy większe niż
+C: $$24\ \mathrm{cm}^2$$
+D: $$30\ \mathrm{cm}^2$$
+POPRAWNA: BC
