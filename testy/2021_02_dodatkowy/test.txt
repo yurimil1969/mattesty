@@ -1,0 +1,162 @@
+@ABC
+Na diagramie przedstawiono wyniki ankiety, w której uczniowie pewnej szkoły odpowiadali na pytanie „Jakie jest twoje ulubione zwierzę domowe?”. Każdy ankietowany uczeń podawał tylko jedno zwierzę. Chomik był ulubieńcem 16 uczniów.
+![Diagram ulubionych zwierząt domowych](rysunek01.png)
+Które z podanych zdań jest fałszywe? Wybierz właściwą odpowiedź spośród podanych.
+A: Pies był ulubieńcem 45% uczniów biorących udział w ankiecie.
+B: Królika wskazało 4 razy mniej uczniów niż chomika.
+C: Kota wskazało 24 ankietowanych uczniów.
+D: W ankiecie wzięło udział 80 uczniów.
+POPRAWNA: C
+
+@ABC
+Poniżej zapisano trzy liczby:
+$$p=\frac{27\cdot9}{27+9}$$
+$$r=\frac{27+9}{27-9}$$
+$$s=\frac{27-9}{27:9}$$
+Który zapis przedstawia poprawnie uporządkowane liczby $$p$$, $$r$$, $$s$$ od najmniejszej do największej? Wybierz właściwą odpowiedź spośród podanych.
+A: $$s,\ r,\ p$$
+B: $$r,\ s,\ p$$
+C: $$s,\ p,\ r$$
+D: $$r,\ p,\ s$$
+POPRAWNA: B
+
+@LUKI
+Dane są liczby: 3321, 1764, 6114, 2936, 1452, 1627.
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Wśród danych liczb są dokładnie [[AB]] liczby podzielne przez 3.
+---
+Wśród danych liczb są dokładnie [[CD]] liczby podzielne przez 4.
+A: trzy
+B: cztery
+C: dwie
+D: trzy
+POPRAWNA: BD
+
+@ABC
+Dane są cztery wyrażenia:
+I. $$-16{,}55+6{,}05$$
+II. $$-5\frac34-4{,}75$$
+III. $$\frac23\cdot\left(-15\frac14\right)$$
+IV. $$(-1{,}5):\frac17$$
+Wartość którego wyrażenia nie jest równa $$-10\frac12$$? Wybierz właściwą odpowiedź spośród podanych.
+A: I
+B: II
+C: III
+D: IV
+POPRAWNA: C
+
+@LUKI
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Wartość wyrażenia $$\frac{27^6}{3^6}$$ jest równa [[AB]].
+---
+Wartość wyrażenia $$\frac{25^8}{5^4}$$ jest równa [[CD]].
+A: $$3^2$$
+B: $$3^{12}$$
+C: $$5^4$$
+D: $$5^{12}$$
+POPRAWNA: BD
+
+@ABC
+Dane są cztery liczby:
+$$a=(-2)^2$$
+$$b=\sqrt{9+16}$$
+$$c=\frac12(3-5)^2$$
+$$d=\sqrt{\frac{25}{4}}$$
+Które zdanie jest fałszywe? Wybierz właściwą odpowiedź spośród podanych.
+A: Wszystkie liczby są dodatnie.
+B: Liczba $$b$$ jest większa niż liczba $$c$$.
+C: Liczba $$c$$ jest dwa razy mniejsza niż liczba $$a$$.
+D: Liczba $$d$$ jest 2 razy mniejsza niż liczba $$b$$.
+E: Liczba $$c$$ jest większa niż liczba $$d$$.
+POPRAWNA: E
+
+@PF
+Suma dwóch dodatnich liczb $$a$$ i $$b$$ jest równa 46.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Po zmniejszeniu każdej z tych liczb o 6 suma otrzymanych liczb będzie równa 34. | P
+2: Po zwiększeniu każdej z tych liczb o połowę suma otrzymanych liczb będzie równa 69. | P
+
+@UZ
+Czekolada o masie 20 dag przed promocją kosztowała 9,60 zł. Producent czekolady przygotował dwie promocje.
+![Dwie promocje czekolady](rysunek08.png)
+Czy dla klienta kupującego 120 dag czekolady bardziej opłacalna jest promocja II niż I?
+Wybierz odpowiedź A albo B i jej uzasadnienie spośród 1., 2. albo 3.
+A: Tak,
+B: Nie,
+1: w promocji I masa czekolady wzrośnie o 4 dag, natomiast w promocji II masa się nie zmieni.
+2: w promocji II 1 dag czekolady kosztuje mniej niż w promocji I.
+3: w promocji II trzeba kupić 6 czekolad, natomiast w promocji I – tylko 5.
+POPRAWNA: A2
+
+@LUKI
+Dane są trzy liczby $$a$$, $$b$$ i $$c$$.
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Gdy $$a+b+c=-1$$ oraz $$a$$ jest liczbą mniejszą od $$-1$$, to suma $$(b+c)$$ jest [[AB]].
+---
+Gdy $$a\cdot b\cdot c=1$$ oraz $$a$$ jest liczbą większą od zera, to iloczyn $$(b\cdot c)$$ jest [[CD]].
+A: dodatnia
+B: ujemna
+C: dodatni
+D: ujemny
+POPRAWNA: AC
+
+@ABC
+Długości boków trójkąta równoramiennego przedstawionego na rysunku opisano wyrażeniami algebraicznymi.
+![Trójkąt równoramienny z wyrażeniami algebraicznymi](rysunek10.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Obwód tego trójkąta jest równy
+A: 13
+B: 21
+C: 27
+D: 30
+POPRAWNA: C
+
+@ABC
+W pudełku znajdowały się piłeczki białe i czarne – łącznie 72. Wśród wszystkich piłeczek $$\frac14$$ stanowiły piłeczki czarne. Wyciągnięto 12 piłeczek, wśród których żadna nie była czarna. Bartek – jako trzynasty – losuje jedną piłeczkę.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prawdopodobieństwo wylosowania przez Bartka piłeczki czarnej wynosi
+A: $$\frac14$$
+B: $$\frac13$$
+C: $$\frac3{10}$$
+D: $$\frac37$$
+POPRAWNA: C
+
+@PF
+Na krótszym boku prostokąta zbudowano trójkąt równoboczny o obwodzie 18 cm, a na dłuższym boku prostokąta zbudowano kwadrat o polu równym $$64\ \mathrm{cm}^2$$.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Pole prostokąta jest o $$16\ \mathrm{cm}^2$$ mniejsze od pola kwadratu powstałego na dłuższym boku prostokąta. | P
+2: Obwód prostokąta jest o 10 cm dłuższy od obwodu trójkąta równobocznego zbudowanego na krótszym boku prostokąta. | P
+
+@ABC
+W trójkącie $$ABC$$ o obwodzie 34 cm poprowadzono odcinek $$DE$$. Obwód trójkąta $$AED$$ jest równy 16 cm, a obwód czworokąta $$EBCD$$ – 30 cm.
+![Trójkąt ABC z odcinkiem DE](rysunek13.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość odcinka $$DE$$ jest równa
+A: 4 cm
+B: 6 cm
+C: 7 cm
+D: 12 cm
+POPRAWNA: B
+
+@ABC
+Suma długości wszystkich krawędzi ostrosłupa prawidłowego sześciokątnego jest równa 450. Krawędź boczna jest w tym ostrosłupie czterokrotnie dłuższa od krawędzi podstawy.
+![Ostrosłup prawidłowy sześciokątny](rysunek14.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość krawędzi podstawy tego ostrosłupa jest równa
+A: 15
+B: 25
+C: 50
+D: 60
+POPRAWNA: A
+
+@PF
+Na rysunku przedstawiono siatkę graniastosłupa prostego oraz podano długości niektórych jego krawędzi.
+![Siatka graniastosłupa prostego](rysunek15.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Pole największej ściany bocznej tego graniastosłupa jest równe 35. | P
+2: Pole podstawy tego graniastosłupa jest równe 12. | F
