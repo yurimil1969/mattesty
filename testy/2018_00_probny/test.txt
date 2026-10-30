@@ -1,0 +1,146 @@
+@ABC
+Firma przesyłkowa Wielpak korzysta z paczkomatów do samodzielnego nadawania i odbierania przesyłek przez klientów. Maksymalne wymiary prostopadłościennej paczki, którą można nadać za pośrednictwem tej firmy, wynoszą 38 cm × 41 cm × 64 cm, a masa przesyłki nie może być większa niż 25 kg.
+W tabeli zapisano wymiary i masę czterech paczek.
+![Tabela wymiarów i masy paczek](rysunek01.png)
+Które z tych paczek mogą być nadane przez paczkomat tej firmy? Wybierz właściwą odpowiedź spośród podanych.
+A: Tylko 1, 2 i 4.
+B: Tylko 2 i 3.
+C: Tylko 3 i 4.
+D: Tylko 2 i 4.
+E: Tylko 4.
+POPRAWNA: D
+
+@LUKI
+Poniżej zamieszczono fragment etykiety z jogurtu o masie 150 g.
+![Etykieta jogurtu](rysunek02.png)
+---
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Zjedzenie całego jogurtu dostarcza organizmowi około [[AB]] wapnia.
+---
+Zjedzenie całego jogurtu dostarcza organizmowi [[CD]] razy więcej białka niż witaminy B2.
+A: 167 mg
+B: 250 mg
+C: 18,4
+D: 18 400
+POPRAWNA: BD
+
+@PF
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: 120% liczby 180 to tyle samo, co 180% liczby 120. | P
+2: 20% liczby 36 to tyle samo, co 40% liczby 18. | P
+
+@ABC
+Liczba $$x$$ jest najmniejszą liczbą dodatnią podzielną przez 3 i 4, a liczba $$y$$ jest największą liczbą dwucyfrową podzielną przez 2 i 9.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Najmniejsza wspólna wielokrotność liczb $$x$$ i $$y$$ jest równa
+A: 72
+B: 108
+C: 180
+D: 216
+POPRAWNA: C
+
+@PF
+Na rysunku przedstawiono fragment podłogi pokrytej kaflami w kształcie kwadratów o boku długości 60 cm i kaflami w kształcie jednakowych prostokątów (patrz rysunek I).
+Na podłodze tej położono prostokątny dywan (patrz rysunek II).
+![Podłoga bez dywanu i z dywanem](rysunek05.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Dywan ma powierzchnię większą niż powierzchnia 4 kwadratowych kafli. | F
+2: Dywan ma wymiary 90 cm × 120 cm. | F
+
+@ABC
+Prędkość rozchodzenia się impulsu elektrycznego u człowieka wynosi około 2 metrów na sekundę. U roślin impuls elektryczny może rozchodzić się z prędkością około 60 centymetrów na minutę.
+Ile razy prędkość rozchodzenia się impulsu elektrycznego u człowieka jest większa od prędkości rozchodzenia się impulsu elektrycznego u roślin? Wybierz właściwą odpowiedź spośród podanych.
+A: W przybliżeniu 2 razy.
+B: W przybliżeniu 20 razy.
+C: W przybliżeniu 200 razy.
+D: W przybliżeniu 2000 razy.
+POPRAWNA: C
+
+@UZ
+Monika poprawnie zaokrągliła liczbę 3465 do pełnych setek i otrzymała liczbę $$x$$, a Paweł poprawnie zaokrąglił liczbę 3495 do pełnych tysięcy i otrzymał liczbę $$y$$.
+Czy liczby $$x$$ i $$y$$ są równe? Wybierz odpowiedź A (Tak) albo B (Nie) i jej uzasadnienie spośród 1., 2. albo 3.
+A: Tak,
+B: Nie,
+1: początkowa liczba Moniki jest mniejsza od początkowej liczby Pawła.
+2: cyfra tysięcy każdej z początkowych liczb jest taka sama.
+3: otrzymane zaokrąglenia różnią się o 500.
+POPRAWNA: B3
+
+@LUKI
+Dana jest liczba $$a=3\sqrt2-4$$.
+---
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Liczba o 2 większa od liczby $$a$$ jest równa [[AB]].
+---
+Liczba 2 razy większa od liczby $$a$$ jest równa [[CD]].
+A: $$5\sqrt2-4$$
+B: $$3\sqrt2-2$$
+C: $$6\sqrt4-8$$
+D: $$6\sqrt2-8$$
+POPRAWNA: BD
+
+@ABC
+Państwo Nowakowie mają trzy córki i jednego syna. Średnia wieku wszystkich dzieci państwa Nowaków jest równa 10 lat, a średnia wieku wszystkich córek jest równa 8 lat.
+Ile lat ma syn państwa Nowaków? Wybierz właściwą odpowiedź spośród podanych.
+A: 9
+B: 11
+C: 12
+D: 16
+POPRAWNA: D
+
+@PF
+Do gry planszowej używane są dwa bączki o kształtach przedstawionych na rysunkach. Każdy bączek po zatrzymaniu na jednym boku wielokąta wskazuje liczbę umieszczoną na jego tarczy.
+Na rysunku I bączek ma kształt pięciokąta foremnego z zaznaczonymi liczbami od 1 do 5. Na rysunku II bączek ma kształt sześciokąta foremnego z zaznaczonymi liczbami od 1 do 6.
+![Dwa bączki do gry](rysunek10.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Prawdopodobieństwo otrzymania liczby większej niż 3 na bączku z rysunku I jest większe niż $$\frac12$$. | F
+2: Uzyskanie nieparzystej liczby na bączku z rysunku I jest tak samo prawdopodobne, jak uzyskanie nieparzystej liczby na bączku z rysunku II. | F
+
+@ABC
+O liczbie $$x$$ wiemy, że $$\frac13$$ tej liczby jest o $$\frac34$$ większa od $$\frac16$$ tej liczby.
+Które równanie pozwoli wyznaczyć liczbę $$x$$? Wybierz właściwą odpowiedź spośród podanych.
+A: $$\frac23x=\frac16x+\frac34$$
+B: $$\frac13x+\frac34=\frac56x$$
+C: $$\frac13x=\frac16x+\frac34$$
+D: $$\frac13x+\frac34=\frac16x$$
+POPRAWNA: C
+
+@PF
+W trójkącie ABC największą miarę ma kąt przy wierzchołku C. Miara kąta przy wierzchołku A jest równa $$48^\circ$$, a miara kąta przy wierzchołku B jest równa różnicy miary kąta przy wierzchołku C oraz miary kąta przy wierzchołku A.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Kąt przy wierzchołku B ma miarę $$48^\circ$$. | F
+2: Trójkąt ABC jest prostokątny. | P
+
+@ABC
+W układzie współrzędnych zaznaczono dwa punkty: $$A=(-8,-4)$$ i $$P=(-2,2)$$. Punkt P jest środkiem odcinka AB.
+Jakie współrzędne ma punkt B? Wybierz właściwą odpowiedź spośród podanych.
+A: $$(4,8)$$
+B: $$(-10,-2)$$
+C: $$(-10,8)$$
+D: $$(4,-2)$$
+POPRAWNA: A
+
+@LUKI
+Cztery jednakowe drewniane elementy, każdy w kształcie prostopadłościanu o wymiarach 2 cm × 2 cm × 9 cm, przyklejono do metalowej płytki w sposób pokazany na rysunku I.
+![Forma i gipsowy odlew](rysunek14.png)
+W ten sposób przygotowano formę, którą wypełniono masą gipsową, i tak otrzymano gipsowy odlew w kształcie prostopadłościanu, pokazany na rysunku II.
+---
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Objętość drewna, z którego zbudowano formę, jest równa [[AB]].
+---
+Objętość gipsowego odlewu jest równa [[CD]].
+A: $$144\ \mathrm{cm}^3$$
+B: $$36\ \mathrm{cm}^3$$
+C: $$162\ \mathrm{cm}^3$$
+D: $$98\ \mathrm{cm}^3$$
+POPRAWNA: AD
+
+@PF
+Na rysunkach przedstawiono ostrosłup prawidłowy i graniastosłup prawidłowy. Wszystkie krawędzie obu brył są jednakowej długości.
+![Ostrosłup i graniastosłup prawidłowy](rysunek15.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Suma długości wszystkich krawędzi ostrosłupa jest większa niż suma długości wszystkich krawędzi graniastosłupa. | F
+2: Całkowite pole powierzchni ostrosłupa jest większe niż całkowite pole powierzchni graniastosłupa. | F
