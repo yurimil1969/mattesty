@@ -1,6 +1,6 @@
 @ABC
 Na diagramie przedstawiono wyniki ankiety, w której uczniowie pewnej szkoły odpowiadali na pytanie „Jakie jest twoje ulubione zwierzę domowe?”. Każdy ankietowany uczeń podawał tylko jedno zwierzę. Chomik był ulubieńcem 16 uczniów.
-![Diagram ulubionych zwierząt domowych](rysunek01.png)
+![Diagram ulubionych zwierząt domowych](rysunek01.png) 
 Które z podanych zdań jest fałszywe? Wybierz właściwą odpowiedź spośród podanych.
 A: Pies był ulubieńcem 45% uczniów biorących udział w ankiecie.
 B: Królika wskazało 4 razy mniej uczniów niż chomika.
