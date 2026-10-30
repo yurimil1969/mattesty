@@ -68,7 +68,7 @@ Oceń prawdziwość podanych zdań.
 
 @ABC
 Karolina kupiła jedno pudełko balonów. W tabeli podano informacje dotyczące kolorów balonów oraz ich liczby w tym pudełku.
-![Tabela](rysunek05.png)
+![Tabela](rysunek08.png)
 Karolina wyjmowała losowo po jednym balonie z pudełka. Pierwsze dwa wyjęte balony były w kolorze czerwonym.
 Jakie jest prawdopodobieństwo, że trzeci balon losowo wyjęty przez Karolinę będzie w kolorze czerwonym?
 A: $$\frac13$$
