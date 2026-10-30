@@ -1,7 +1,7 @@
 @ABC
 Z okazji Światowego Dnia Książki uczniowie klasy VII zorganizowali quiz wiedzy o postaciach literackich. Quiz można było zakończyć na jednym z poziomów, które zaliczało się kolejno od I do VI. Na diagramie przedstawiono, ile procent uczniów zakończyło quiz na danym poziomie.
 Na poziomach niższych niż Asia quiz zakończyło dokładnie 32% uczniów biorących w nim udział.
-![Wyniki quizu](rysunek01.png)
+![Wyniki quizu](rysunek01.png) 
 Ile procent uczniów zakończyło ten quiz na poziomach wyższych niż Asia? Wybierz właściwą odpowiedź spośród podanych.
 A: 40%
 B: 32%
