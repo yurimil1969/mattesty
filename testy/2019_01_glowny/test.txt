@@ -1,0 +1,146 @@
+@PF
+Na rysunku przedstawiono kartkę z kalendarza na rok 2017.
+![Kartka z kalendarza](rysunek01.png)
+Natalia obchodzi urodziny 31 sierpnia, jej siostra Ewa – 18 sierpnia, a brat Karol – 2 października.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: W 2017 r. urodziny Ewy wypadły w piątek. | P
+2: W 2017 r. dniem urodzin Karola był poniedziałek. | P
+
+@ABC
+Liczba 1450 jest zaokrągleniem do rzędu dziesiątek kilku liczb naturalnych.
+Ile jest wszystkich liczb naturalnych różnych od 1450, które mają takie zaokrąglenie? Wybierz właściwą odpowiedź spośród podanych.
+A: 4
+B: 5
+C: 9
+D: 10
+POPRAWNA: C
+
+@ABC
+W tabeli zapisano trzy wyrażenia.
+![Tabela wyrażeń](rysunek03.png)
+Które z tych wyrażeń są równe $$50^8$$? Wybierz właściwą odpowiedź spośród podanych.
+A: Tylko I i II.
+B: Tylko II i III.
+C: Tylko II.
+D: Tylko III.
+POPRAWNA: B
+
+@ABC
+Dane są cztery wyrażenia:
+I. $$4+\sqrt{35}$$
+II. $$6+\sqrt{17}$$
+III. $$17-\sqrt{48}$$
+IV. $$15-\sqrt{26}$$
+Wartości których wyrażeń są mniejsze od 10? Wybierz właściwą odpowiedź spośród podanych.
+A: I i II
+B: II i III
+C: III i IV
+D: I i IV
+POPRAWNA: D
+
+@LUKI
+Adam przygotował karty do gry z czterech arkuszy kartonu. Najpierw podzielił każdy arkusz kartonu na cztery części, a następnie każdą z nich ponownie podzielił na cztery części. Tak powstał komplet kart. W grze bierze udział 5 graczy, z których każdy otrzymuje jednakową liczbę kart.
+---
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Adam przygotował [[AB]] karty do gry.
+---
+Każdy gracz może otrzymać maksymalnie [[CD]] kart.
+A: 32
+B: 64
+C: 12
+D: 13
+POPRAWNA: BC
+
+@ABC
+Dorota sporządziła z cukru i wody syrop do deseru. Stosunek masy cukru do masy wody w tym syropie jest równy $$5:3$$.
+Ile procent masy tego syropu stanowi masa cukru? Wybierz właściwą odpowiedź spośród podanych.
+A: 25%
+B: 37,5%
+C: 40%
+D: 60%
+E: 62,5%
+POPRAWNA: E
+
+@PF
+W pewnej firmie zatrudnionych jest więcej niż 10 pracowników. Połowa z nich zarabia po 3000 zł, a druga połowa – po 4000 zł.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Średnia arytmetyczna zarobków w tej firmie jest równa 3500 zł. | P
+2: Gdy z pracy w tej firmie zrezygnują dwie osoby, z których jedna zarabia 3000 zł, a druga 4000 zł, to średnia arytmetyczna zarobków się nie zmieni. | P
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wyrażenie $$(2a+3b)(3b-2a)$$ jest równe
+A: $$4a^2-12ab+9b^2$$
+B: $$9b^2+12ab+4a^2$$
+C: $$9b^2-4a^2$$
+D: $$4a^2-9b^2$$
+POPRAWNA: C
+
+@ABC
+W układzie współrzędnych wyznaczono odcinek o końcach w punktach K i L. Punkty te mają współrzędne $$K=(-17,6)$$ oraz $$L=(15,-4)$$.
+Na którym rysunku zakropkowana część płaszczyzny zawiera środek odcinka KL? Wybierz właściwą odpowiedź spośród podanych.
+A: ![Układ współrzędnych A](rysunek09A.png)
+B: ![Układ współrzędnych B](rysunek09B.png)
+C: ![Układ współrzędnych C](rysunek09C.png)
+D: ![Układ współrzędnych D](rysunek09D.png)
+POPRAWNA: B
+
+@PF
+Kwadrat o boku $$a$$ przedstawiony na rysunku I rozcięto na dwa przystające prostokąty, z których ułożono figurę, jak na rysunku II. Pole ułożonej figury jest równe polu kwadratu.
+![Kwadrat i figura ułożona z prostokątów](rysunek10.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Obwód ułożonej figury jest większy o $$1{,}5a$$ od obwodu kwadratu. | F
+2: Obwód ułożonej figury jest równy $$5a$$. | P
+
+@ABC
+Na rysunku przedstawiono trzy trójkąty.
+![Trzy trójkąty](rysunek11.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Na podstawie informacji przedstawionych na rysunku można stwierdzić, że
+A: trójkąt ABC jest przystający do trójkąta KLM.
+B: trójkąt KLM jest przystający do trójkąta PQR.
+C: trójkąt PQR jest przystający do trójkąta ABC.
+D: wszystkie trójkąty są do siebie przystające.
+POPRAWNA: B
+
+@ABC
+Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym $$|DE|=|AE|$$. Miara kąta BCE jest równa $$106^\circ$$.
+![Równoległobok ABCD i trójkąt AED](rysunek12.png)
+Jaką miarę ma kąt AEC? Wybierz właściwą odpowiedź spośród podanych.
+A: $$148^\circ$$
+B: $$122^\circ$$
+C: $$74^\circ$$
+D: $$58^\circ$$
+POPRAWNA: A
+
+@ABC
+Na rysunku przedstawiono czworokąt zbudowany z dwóch trójkątów prostokątnych. Dane są długości boków $$|AB|=|BC|=1$$ oraz $$|AD|=\sqrt2$$.
+![Czworokąt ABCD](rysunek13.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość boku CD jest równa
+A: $$\sqrt3$$
+B: 2
+C: 3
+D: $$2\sqrt2$$
+POPRAWNA: B
+
+@ABC
+W koszu były 203 jednakowe sześcienne klocki. Zbudowano z nich możliwie największy sześcian, a pozostałe odłożono.
+Ile klocków odłożono? Wybierz właściwą odpowiedź spośród podanych.
+A: 150
+B: 125
+C: 78
+D: 53
+POPRAWNA: C
+
+@ABC
+Na rysunku przedstawiono fragment siatki ostrosłupa prawidłowego czworokątnego.
+![Fragment siatki ostrosłupa](rysunek15.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Suma długości wszystkich krawędzi tego ostrosłupa jest równa
+A: 560 cm
+B: 360 cm
+C: 260 cm
+D: 220 cm
+POPRAWNA: B
