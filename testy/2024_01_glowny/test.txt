@@ -67,7 +67,8 @@ Oceń prawdziwość podanych zdań.
 2: Wyrażenie $$\frac{2^8\cdot2^7}{2^{10}}$$ można zapisać w postaci $$2^5$$. | P
 
 @ABC
-Karolina kupiła jedno pudełko balonów. W pudełku było 10 balonów czerwonych, 8 niebieskich, 6 zielonych i 8 żółtych.
+Karolina kupiła jedno pudełko balonów. W tabeli podano informacje dotyczące kolorów balonów oraz ich liczby w tym pudełku.
+![Tabela](rysunek05.png)
 Karolina wyjmowała losowo po jednym balonie z pudełka. Pierwsze dwa wyjęte balony były w kolorze czerwonym.
 Jakie jest prawdopodobieństwo, że trzeci balon losowo wyjęty przez Karolinę będzie w kolorze czerwonym?
 A: $$\frac13$$
