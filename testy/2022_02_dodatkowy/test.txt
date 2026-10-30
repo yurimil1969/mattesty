@@ -1,0 +1,147 @@
+@PF
+Wśród pewnej grupy osób przeprowadzono ankietę. Jedno z pytań brzmiało: Jaka jest twoja ulubiona pora roku? Każdy ankietowany wskazał tylko jedną porę roku. Rozkład udzielonych odpowiedzi na to pytanie przedstawiono na diagramie.
+![Diagram ulubionych pór roku](rysunek01.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Zima jest ulubioną porą roku dla mniej niż 24% liczby osób ankietowanych. | F
+2: Lato jest ulubioną porą roku dla $$\frac{3}{7}$$ liczby osób ankietowanych. | P
+
+@LUKI
+Córka obecnie jest 4 razy młodsza od swojej mamy. Razem mają 60 lat.
+---
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Mama obecnie ma [[AB]] lat.
+---
+Córka za 8 lat będzie miała [[CD]].
+A: 48
+B: 45
+C: 23 lata
+D: 20 lat
+POPRAWNA: AD
+
+@ABC
+Liczby: $$x$$, $$-\frac{5}{6}$$, $$y$$ są uporządkowane rosnąco.
+Liczba $$y$$ jest o 0,5 większa od $$-\frac{5}{6}$$, a liczba $$-\frac{5}{6}$$ jest o 0,5 większa od liczby $$x$$.
+Jakie wartości mają liczby $$x$$ i $$y$$? Wybierz właściwą odpowiedź spośród podanych.
+A: $$x=-\frac{4}{3}$$ i $$y=-\frac{1}{3}$$
+B: $$x=-\frac{7}{6}$$ i $$y=-\frac{1}{6}$$
+C: $$x=-\frac{4}{3}$$ i $$y=-\frac{1}{2}$$
+D: $$x=-\frac{7}{6}$$ i $$y=-\frac{1}{3}$$
+POPRAWNA: A
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Rozwiązaniem równania $$-2(x-1)-3(2-x)=0$$ jest liczba
+A: $$-4$$
+B: $$-1{,}6$$
+C: $$0{,}8$$
+D: $$4$$
+E: $$8$$
+POPRAWNA: D
+
+@PF
+O godzinie 14:50 Maciek wyruszył w podróż pociągiem z Gdańska do Grudziądza. Najpierw dojechał do Iławy, gdzie po 50-minutowym oczekiwaniu wsiadł do pociągu, którym dojechał do Grudziądza.
+Na rysunku pokazano, jak w czasie przebiegała podróż Maćka.
+Na osi czas przejazdu z Gdańska do Grudziądza podzielono na 20 jednakowych odstępów.
+![Oś czasu podróży Maćka](rysunek05.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Przejazd z Iławy do Grudziądza trwał jedną godzinę. | P
+2: Maciek przyjechał do Grudziądza o godzinie 18:10. | P
+
+@ABC
+Dane są trzy liczby:
+$$g=\sqrt{120}$$, $$h=8+\sqrt{17}$$, $$k=9+\sqrt{3}$$.
+Które spośród tych liczb są mniejsze od liczby 11? Wybierz właściwą odpowiedź spośród podanych.
+A: Tylko $$g$$.
+B: Tylko $$h$$ i $$k$$.
+C: Tylko $$g$$ i $$k$$.
+D: Tylko $$g$$ i $$h$$.
+POPRAWNA: C
+
+@PF
+Liczbę 404 można zapisać w postaci $$(21\cdot19+5)$$.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Resztą z dzielenia liczby 404 przez 19 jest 5. | P
+2: Jeśli liczbę 404 zmniejszymy o 5, to otrzymamy liczbę podzielną przez 21. | P
+
+@ABC
+Na tablicy zapisano wszystkie różne liczby dwucyfrowe, które jednocześnie spełniają trzy warunki: są mniejsze od 40, są podzielne przez 3, suma cyfr każdej z nich jest większa od 7.
+Ile liczb zapisano na tablicy? Wybierz właściwą odpowiedź spośród podanych.
+A: 3
+B: 4
+C: 5
+D: 6
+POPRAWNA: B
+
+@ABC
+Biuro podróży w ramach oferty promocyjnej obniżyło cenę wycieczki o 20%. Pani Anna skorzystała z promocji i za wycieczkę zapłaciła 1500 zł.
+Jaka była cena wycieczki przed obniżką? Wybierz właściwą odpowiedź spośród podanych.
+A: 1800 zł
+B: 1875 zł
+C: 2000 zł
+D: 2175 zł
+POPRAWNA: B
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba $$3^5\cdot9^6$$ jest równa
+A: $$27^{30}$$
+B: $$27^{11}$$
+C: $$3^{17}$$
+D: $$3^{13}$$
+POPRAWNA: C
+
+@ABC
+Dany jest wzór na pole powierzchni całkowitej graniastosłupa:
+$$P_c=2P_p+P_b$$
+gdzie: $$P_c$$ – pole powierzchni całkowitej, $$P_p$$ – pole podstawy, $$P_b$$ – pole powierzchni bocznej.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole podstawy $$P_p$$ wyznaczone poprawnie z powyższego wzoru opisano równaniem
+A: $$P_p=\frac{P_c-P_b}{2}$$
+B: $$P_p=\frac{P_c}{2}-P_b$$
+C: $$P_p=P_c-\frac{P_b}{2}$$
+D: $$P_p=P_c-P_b$$
+POPRAWNA: A
+
+@UZ
+Na rysunku przedstawiono prostokąt i dwa trójkąty równoramienne $$T_1$$ i $$T_2$$ oraz podano długości ich boków.
+![Prostokąt i dwa trójkąty równoramienne](rysunek12.png)
+Czy te trzy wielokąty mogą być ścianami jednego ostrosłupa? Wybierz odpowiedź A albo B i jej uzasadnienie spośród 1., 2. albo 3.
+A: Tak,
+B: Nie,
+1: długości boków prostokąta są równe długościom podstaw trójkątów $$T_1$$ i $$T_2$$.
+2: trójkąty $$T_1$$ i $$T_2$$ mają podstawy różnej długości.
+3: ramiona trójkąta $$T_1$$ mają inną długość niż ramiona trójkąta $$T_2$$.
+POPRAWNA: B3
+
+@ABC
+W pewnym rombie jeden z kątów wewnętrznych ma miarę $$120^\circ$$. Obwód tego rombu jest równy 24 cm.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dłuższa przekątna tego rombu ma długość
+A: $$3\sqrt{3}$$ cm
+B: 6 cm
+C: $$6\sqrt{3}$$ cm
+D: 12 cm
+POPRAWNA: C
+
+@ABC
+Na rysunku przedstawiono prostokąt. Długość dłuższego boku oznaczono symbolem $$x$$ oraz opisano za pomocą wyrażenia algebraicznego $$27-2x$$. Długość krótszego boku oznaczono symbolem $$y$$ oraz opisano za pomocą wyrażenia algebraicznego $$2y-3$$.
+![Prostokąt z oznaczeniami boków](rysunek14.png)
+Które równanie nie opisuje poprawnej zależności między wartościami $$x$$ i $$y$$? Wybierz właściwą odpowiedź spośród podanych.
+A: $$x-y=6$$
+B: $$x+y=12$$
+C: $$x\cdot y=27$$
+D: $$y:x=3$$
+POPRAWNA: D
+
+@LUKI
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Wartość wyrażenia $$2-2a^2$$ dla $$a=-3$$ jest równa [[AB]].
+---
+Wyrażenie $$\frac12(2-2a^2)$$ można przekształcić do postaci [[CD]].
+A: $$-16$$
+B: $$20$$
+C: $$1-2a^2$$
+D: $$1-a^2$$
+POPRAWNA: AD
