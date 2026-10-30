@@ -1,1 +1,139 @@
+@ABC
+W szkole Adama w gazetce szkolnej ukazał się artykuł dotyczący wyboru przez ósmoklasistów szkoły ponadpodstawowej.
+![Artykuł w gazetce szkolnej](rysunek01.png)
+Poniżej zapisano trzy prawdziwe informacje.
+I. Ankietę oddało łącznie 150 uczniów.
+II. W ankiecie wzięli udział wszyscy uczniowie klas ósmych.
+III. Łącznie mniej niż połowa uczniów biorących udział w ankiecie zamierza kontynuować naukę w technikum lub w branżowej szkole.
+Które z informacji – I, II, III – wynikają z analizy danych zamieszczonych w treści artykułu? Wybierz właściwą odpowiedź spośród podanych.
+A: Tylko I i II.
+B: Tylko I i III.
+C: Tylko II i III.
+D: Wszystkie – I, II i III.
+POPRAWNA: B
 
+@PF
+Piłki tenisowe zapakowano do 186 jednakowych pudełek. Do każdego z tych pudełek włożono po 6 piłek.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Liczba wszystkich spakowanych piłek jest podzielna przez 4. | P
+2: Wszystkie te piłki można byłoby spakować do większych pudełek – po 9 piłek w każdym. | P
+
+@ABC
+Która z poniższych nierówności jest prawdziwa? Wybierz właściwą odpowiedź spośród podanych.
+A: $$\frac{25}{9}<\frac{23}{9}$$
+B: $$\frac{5}{4}+\frac{5}{2}>4$$
+C: $$\frac{13}{17}\cdot3>\frac{39}{17}$$
+D: $$\frac{11}{12}>\frac{11}{13}$$
+POPRAWNA: D
+
+@ABC
+Dane są trzy wyrażenia:
+I. $$6\cdot1\frac{2}{3}$$
+II. $$6:1{,}2$$
+III. $$7{,}25-2\frac{1}{4}$$
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczbami całkowitymi są wartości wyrażeń
+A: I, II i III.
+B: Tylko I i II.
+C: Tylko II i III.
+D: Tylko I i III.
+POPRAWNA: A
+
+@ABC
+Asia wzięła udział w zajęciach teatralnych. Zajęcia składały się z 2 części. Każda część trwała tyle samo minut. Pomiędzy pierwszą a drugą częścią była 10-minutowa przerwa. Zajęcia rozpoczęły się o godzinie 17:45, a zakończyły o godzinie 19:05.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Druga część zajęć rozpoczęła się o godzinie
+A: 18:20
+B: 18:25
+C: 18:30
+D: 18:35
+POPRAWNA: C
+
+@PF
+Cenę laptopa obniżono najpierw o 15%, a później o 150 zł. Po obu obniżkach laptop kosztuje 2400 zł.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Przed tymi dwoma obniżkami laptop kosztował 3000 zł. | P
+2: Po obu obniżkach cena laptopa stanowi 85% ceny początkowej. | F
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia $$\frac{6^8}{2^4}$$ jest równa
+A: $$3^2$$
+B: $$3^4$$
+C: $$2^2\cdot3^8$$
+D: $$2^4\cdot3^8$$
+POPRAWNA: D
+
+@LUKI
+Uzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Wartość wyrażenia $$\sqrt{1+\frac{25}{144}}$$ jest równa [[AB]].
+---
+Wartość wyrażenia $$\sqrt[3]{3+\frac{3}{8}}$$ jest równa [[CD]].
+A: $$1\frac{5}{12}$$
+B: $$1\frac{1}{12}$$
+C: $$1\frac{1}{2}$$
+D: $$1\frac{1}{8}$$
+POPRAWNA: BC
+
+@UZ
+Na festyn przygotowano loterię, w której było 120 losów, w tym 80 wygrywających. Przed rozpoczęciem festynu dołożono jeszcze 20 losów wygrywających i 20 przegrywających.
+Czy prawdopodobieństwo wyciągnięcia losu wygrywającego w tej loterii zmieniło się po dołożeniu losów? Wybierz odpowiedź A albo B i jej uzasadnienie spośród 1., 2. albo 3.
+A: Tak,
+B: Nie,
+1: różnica liczby losów wygrywających i przegrywających po dołożeniu losów jest taka sama jak na początku.
+2: dołożono tyle samo losów wygrywających co przegrywających.
+3: zmienił się stosunek liczby losów wygrywających do liczby wszystkich losów.
+POPRAWNA: A3
+
+@PF
+Zależność między liczbą przekątnych $$k$$ a liczbą boków $$n$$ wielokąta wypukłego określa wzór $$k=\frac{n(n-3)}{2}$$.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Liczba przekątnych w dwunastokącie wypukłym jest trzy razy większa od liczby przekątnych w czworokącie wypukłym. | F
+2: Liczba przekątnych w ośmiokącie wypukłym jest o 11 większa od liczby przekątnych w sześciokącie wypukłym. | P
+
+@PF
+W zeszycie w linie narysowano dwa równoległoboki i trójkąt w sposób pokazany na rysunku.
+Odległości między sąsiednimi liniami są jednakowe. Podstawy wszystkich tych figur mają taką samą długość. Pole równoległoboku P jest równe 4.
+![Dwa równoległoboki i trójkąt](rysunek11.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Pole równoległoboku R jest równe 8. | P
+2: Pole trójkąta S jest równe 4. | P
+
+@ABC
+W trójkącie stosunek miar kątów jest równy $$2:3:7$$.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Trójkąt o podanych własnościach jest
+A: rozwartokątny.
+B: prostokątny.
+C: ostrokątny.
+D: równoramienny.
+POPRAWNA: A
+
+@PF
+Prostokąt ABCD podzielono odcinkiem EF na dwa prostokąty. Odcinek EF ma długość 11 cm, a odcinek ED ma długość 2 cm. Pole prostokąta EFCD stanowi $$\frac{2}{7}$$ pola prostokąta ABCD.
+![Prostokąt ABCD podzielony odcinkiem EF](rysunek13.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Pole prostokąta ABCD jest równe $$77\ \mathrm{cm}^2$$. | P
+2: Odcinek AE ma długość 7 cm. | F
+
+@ABC
+Bok rombu ma długość 17 cm, a jedna z jego przekątnych ma długość 30 cm.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole tego rombu jest równe
+A: $$120\ \mathrm{cm}^2$$
+B: $$240\ \mathrm{cm}^2$$
+C: $$255\ \mathrm{cm}^2$$
+D: $$480\ \mathrm{cm}^2$$
+POPRAWNA: B
+
+@ABC
+Dwa sześciany – jeden o krawędzi 2 i drugi o krawędzi 3 – pocięto na sześciany o krawędzi 1.
+Z otrzymanych sześcianów zbudowano prostopadłościan. Żadna ściana tego prostopadłościanu nie jest kwadratem.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole powierzchni zbudowanego prostopadłościanu jest równe
+A: 35
+B: 47
+C: 94
+D: 142
+POPRAWNA: C
