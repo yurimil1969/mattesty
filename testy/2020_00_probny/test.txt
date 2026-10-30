@@ -1,0 +1,136 @@
+@PF
+Na diagramie kołowym przedstawiono procentowy udział soków o różnych smakach, które zostały sprzedane podczas festynu. Najmniej sprzedano soku pomidorowego, tylko 15 kartonów, a najwięcej – soku jabłkowego.
+![Diagram sprzedaży soków](rysunek01.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Sprzedano łącznie 125 kartonów soków. | F
+2: Sprzedano o 30 kartonów więcej soku jabłkowego niż pomidorowego. | P
+
+@ABC
+W liczbie pięciocyfrowej 258#4, podzielnej przez 4 i niepodzielnej przez 3, cyfrę dziesiątek zastąpiono znakiem „#”.
+Jakiej cyfry na pewno nie zastąpiono znakiem „#”? Wybierz właściwą odpowiedź spośród podanych.
+A: 0
+B: 4
+C: 6
+D: 8
+POPRAWNA: D
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia $$\frac{4}{3}\cdot3-2^3$$ jest równa
+A: $$-\frac{14}{3}$$
+B: $$-4$$
+C: $$-7$$
+D: $$-\frac{8}{3}$$
+E: $$-2$$
+POPRAWNA: B
+
+@PF
+Miejscowości A i B położone na przeciwległych brzegach jeziora są połączone dwiema drogami – drogą polną prowadzącą przez punkt P i drogą leśną prowadzącą przez punkt L.
+Długość drogi polnej APB wynosi 10 km, a długość drogi leśnej ALB jest równa 6 km.
+![Drogi między miejscowościami](rysunek04.png)
+Matylda i Karol wyruszyli na rowerach z miejscowości A do miejscowości B o godzinie 10:00. Matylda jechała drogą leśną, a Karol – drogą polną. Średnia prędkość jazdy Matyldy wynosiła $$15\ \frac{\mathrm{km}}{\mathrm{h}}$$, a średnia prędkość Karola była równa $$20\ \frac{\mathrm{km}}{\mathrm{h}}$$.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Do miejscowości B Karol przyjechał wcześniej niż Matylda. | F
+2: Matylda przyjechała do miejscowości B o godzinie 10:24. | P
+
+@ABC
+Na treningu odmierzano za pomocą aplikacji komputerowej 15-minutowe cykle ćwiczeń, które następowały bezpośrednio jeden po drugim. Ola zaczęła ćwiczyć, gdy pierwszy cykl trwał już 2 minuty, a skończyła, gdy do końca trzeciego cyklu zostało jeszcze 7 minut.
+Ile łącznie minut Ola ćwiczyła na zajęciach? Wybierz właściwą odpowiedź spośród podanych.
+A: 36
+B: 35
+C: 24
+D: 21
+POPRAWNA: A
+
+@ABC
+Oskar jest o 6 lat starszy od swoich braci bliźniaków. Obecnie Oskar i jego dwaj bracia mają razem 42 lata.
+Ile lat ma obecnie każdy z bliźniaków? Wybierz właściwą odpowiedź spośród podanych.
+A: 18
+B: 16
+C: 14
+D: 12
+POPRAWNA: D
+
+@ABC
+Marta przygotowała dwa żetony takie, że suma liczb zapisanych na obu stronach każdego żetonu jest równa zero. Widok jednej ze stron tych żetonów przedstawiono poniżej.
+![Dwa żetony z liczbami](rysunek07.png)
+Jakie liczby znajdują się na niewidocznych stronach tych żetonów? Wybierz właściwą odpowiedź spośród podanych.
+A: $$-25$$ i $$-8$$
+B: $$-25$$ i $$8$$
+C: $$25$$ i $$-8$$
+D: $$25$$ i $$8$$
+POPRAWNA: D
+
+@PF
+W układzie współrzędnych zaznaczono trójkąt ABC oraz punkt P należący do boku BC. Wszystkie współrzędne punktów A, B, C i P są liczbami całkowitymi.
+![Trójkąt w układzie współrzędnych](rysunek08.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Pole trójkąta PAB jest równe polu trójkąta PAC. | P
+2: Pole trójkąta ABC jest równe 21. | P
+
+@ABC
+Trójkąt, w którym długości boków są do siebie w stosunku $$3:4:5$$, nazywa się trójkątem egipskim.
+Z odcinków o jakich długościach nie można zbudować trójkąta egipskiego? Wybierz właściwą odpowiedź spośród podanych.
+A: 6, 8, 10
+B: 9, 12, 15
+C: 12, 20, 25
+D: 21, 28, 35
+POPRAWNA: C
+
+@ABC
+Sprzedawca kupił od ogrodnika róże i tulipany za łączną kwotę 580 zł. Jeden tulipan kosztował 1,20 zł, a cena jednej róży była równa 4 zł. Sprzedawca kupił o 50 tulipanów więcej niż róż.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Jeśli liczbę zakupionych tulipanów oznaczymy przez $$t$$, to podane zależności opisuje równanie
+A: $$1{,}2(t+50)+4t=580$$
+B: $$1{,}2(t-50)+4t=580$$
+C: $$1{,}2t+4(t-50)=580$$
+D: $$1{,}2t+4(t+50)=580$$
+POPRAWNA: C
+
+@PF
+Figura zacieniowana na rysunku jest równoległobokiem.
+![Równoległobok z kątami](rysunek11.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Suma miar kątów $$\alpha$$ i $$\beta$$ wynosi $$180^\circ$$. | P
+2: Kąt $$\alpha$$ ma miarę 3 razy mniejszą niż kąt $$\beta$$. | P
+
+@LUKI
+Na rysunku przedstawiono trójkąt równoramienny KLM o ramionach KM i LM. Miara kąta KML jest dwa razy większa niż miara kąta KLM.
+![Trójkąt równoramienny KLM](rysunek12.png)
+---
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Miara kąta KLM jest równa [[AB]].
+---
+Trójkąt KLM jest [[CD]].
+A: $$40^\circ$$
+B: $$45^\circ$$
+C: rozwartokątny
+D: prostokątny
+POPRAWNA: BD
+
+@ABC
+Małe trójkąty równoboczne o bokach długości 1 układano obok siebie tak, że uzyskiwano kolejne, coraz większe trójkąty równoboczne, według reguły przedstawionej na poniższym rysunku.
+![Trójkąty równoboczne ułożone z małych trójkątów](rysunek13.png)
+Ile małych trójkątów równobocznych należy użyć, aby ułożyć trójkąt równoboczny o podstawie równej 5? Wybierz właściwą odpowiedź spośród podanych.
+A: 9
+B: 16
+C: 25
+D: 50
+POPRAWNA: C
+
+@PF
+W okręgu o środku S i promieniu 5 cm narysowano cięciwę AB o długości 8 cm.
+![Okrąg z cięciwą AB](rysunek14.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Odległość punktu S od cięciwy AB jest równa 3 cm. | P
+2: Obwód trójkąta ASB jest równy 16 cm. | F
+
+@ABC
+Średnia arytmetyczna dwóch ocen Janka z matematyki jest równa 3,5.
+Jaką trzecią ocenę musi uzyskać Janek, by średnia jego ocen była równa 4? Wybierz właściwą odpowiedź spośród podanych.
+A: 3
+B: 4
+C: 5
+D: 6
+POPRAWNA: C
