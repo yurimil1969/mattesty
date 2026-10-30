@@ -1,0 +1,151 @@
+@ABC
+W tabeli przedstawiono fragment cennika, który obowiązuje w wypożyczalni gier planszowych „Świat Gier”.
+![Cennik wypożyczalni gier](rysunek01.png)
+W tej wypożyczalni Janek wypożyczył jedną grę rodzinną i dwie gry logiczne na siedem dni.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Janek za wypożyczenie tych gier zapłacił
+A: 21 zł
+B: 30 zł
+C: 36 zł
+D: 51 zł
+E: 52 zł
+POPRAWNA: C
+
+@ABC
+Dane są trzy wyrażenia arytmetyczne:
+I. $$75{,}5\cdot2-7\cdot6{,}99$$
+II. $$(4{,}6+5{,}5)\cdot10$$
+III. $$0{,}26\cdot400$$
+Które spośród tych wyrażeń mają wartość większą od 100? Wybierz właściwą odpowiedź spośród podanych.
+A: Tylko I i II.
+B: Tylko I i III.
+C: Tylko II i III.
+D: I, II, III.
+POPRAWNA: D
+
+@ABC
+W sklepie obniżono o 15% ceny wszystkich książek. Zosia wybrała książkę, która przed obniżką kosztowała 45 zł.
+Ile zapłaci Zosia za tę książkę? Wybierz właściwą odpowiedź spośród podanych.
+A: 40,50 zł
+B: 39,75 zł
+C: 38,25 zł
+D: 30,00 zł
+POPRAWNA: C
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Na osi liczbowej między liczbami $$-\frac26$$ oraz $$-\frac16$$ znajduje się liczba
+A: $$-\frac14$$
+B: $$-\frac13$$
+C: $$-\frac5{12}$$
+D: $$-\frac12$$
+POPRAWNA: A
+
+@PF
+Piechur i kolarz wyruszyli naprzeciw siebie na spotkanie tą samą drogą. Droga, która ich dzieliła, miała długość 48 km. Piechur wyszedł o godzinie 8:00 i szedł ze stałą prędkością $$4\ \frac{\mathrm{km}}{\mathrm{h}}$$. Kolarz wyjechał o godzinie 10:00 i jechał ze stałą prędkością $$16\ \frac{\mathrm{km}}{\mathrm{h}}$$.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: O godzinie 10:30 piechura i kolarza dzieliła droga o długości 30 km. | P
+2: Piechur i kolarz spotkają się o godzinie 12:00. | P
+
+@ABC
+W pewnej klasie przeprowadzono ankietę na temat liczby rodzeństwa uczniów tej klasy. Okazało się, że 44% liczby uczniów ma siostrę, 72% – brata, a 4 uczniów ma i siostrę, i brata. Każdy uczeń tej klasy ma rodzeństwo.
+Ilu uczniów brało udział w ankiecie? Wybierz właściwą odpowiedź spośród podanych.
+A: 25
+B: 14
+C: 11
+D: 7
+POPRAWNA: A
+
+@ABC
+Zależność drogi od czasu i przyśpieszenia w ruchu jednostajnie przyśpieszonym (gdy prędkość początkowa jest równa 0) opisuje wzór $$s=\frac{at^2}{2}$$, gdzie $$s$$ – droga, $$t$$ – czas, $$a$$ – przyśpieszenie.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Przyśpieszenie $$a$$ poprawnie wyznaczone z tego wzoru można opisać równaniem
+A: $$a=\frac{st^2}{2}$$
+B: $$a=\frac{t^2}{2s}$$
+C: $$a=\frac{2s}{t^2}$$
+D: $$a=2st^2$$
+POPRAWNA: C
+
+@LUKI
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Wartość wyrażenia $$(-2)^4:(-2)^3$$ jest równa [[AB]].
+---
+Wartość wyrażenia $$(-2)^2\cdot(-2)^3$$ jest równa [[CD]].
+A: $$-2$$
+B: $$2$$
+C: $$(-4)^5$$
+D: $$(-2)^5$$
+POPRAWNA: AD
+
+@LUKI
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+Wartość wyrażenia $$\sqrt{36+64}$$ jest równa [[AB]].
+---
+Wartość wyrażenia $$\sqrt{1+\frac9{16}}$$ jest równa [[CD]].
+A: 10
+B: 14
+C: $$1\frac14$$
+D: $$1\frac34$$
+POPRAWNA: AC
+
+@ABC
+Wśród 180 uczniów dojeżdżających do szkoły przeprowadzono ankietę. Uczniowie odpowiadali na pytanie, z jakiego środka transportu korzystają w drodze do szkoły. Każdy uczeń wskazał jeden środek transportu.
+Otrzymano następujące wyniki:
+30% uczniów dojeżdża tramwajem (T), $$\frac14$$ uczniów – autobusem (A), co piąty – rowerem (R), a pozostali – samochodem (S).
+Na którym diagramie przedstawiono wyniki tej ankiety? Wybierz właściwą odpowiedź spośród podanych.
+A: ![Diagram A](rysunek10A.png)
+B: ![Diagram B](rysunek10B.png)
+C: ![Diagram C](rysunek10C.png)
+D: ![Diagram D](rysunek10D.png)
+POPRAWNA: D
+
+@ABC
+Na drewnianej kostce w kształcie sześcianu zaznaczono punkty K i L tak, jak na rysunku.
+![Sześcian z punktami K i L](rysunek11.png)
+Po ścianach tej kostki od punktu K do punktu L przeszła mrówka.
+Na której z poniższych siatek sześcianu przedstawiono trasę, której nie mogła pokonać mrówka? Wybierz właściwą odpowiedź spośród podanych.
+A: ![Siatka A](rysunek11A.png)
+B: ![Siatka B](rysunek11B.png)
+C: ![Siatka C](rysunek11C.png)
+D: ![Siatka D](rysunek11D.png)
+POPRAWNA: B
+
+@LUKI
+Uczniowie klasy 8a utworzyli jeden szereg, a uczniowie klasy 8b – drugi. W obu szeregach chłopcy i dziewczęta stali na przemian: chłopiec – dziewczyna – chłopiec – dziewczyna itd.
+W klasie 8a na pierwszym i ostatnim miejscu stali chłopcy, a w klasie 8b na pierwszym i ostatnim miejscu stały dziewczęta. W klasie 8a jest 12 dziewcząt, a w klasie 8b jest o dwóch chłopców mniej niż w klasie 8a.
+---
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+W klasie 8a jest [[AB]] chłopców.
+---
+W klasie 8b jest [[CD]] uczniów.
+A: 11
+B: 13
+C: 21
+D: 23
+POPRAWNA: BD
+
+@PF
+Krótsza przekątna trapezu prostokątnego dzieli go na dwa trójkąty prostokątne równoramienne.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Wysokość trapezu i krótsza podstawa trapezu mają taką samą długość. | P
+2: Wysokość trapezu jest równa połowie dłuższej podstawy trapezu. | P
+
+@ABC
+W trójkącie prostokątnym o kącie ostrym $$30^\circ$$ suma długości krótszej przyprostokątnej i przeciwprostokątnej jest równa 12 cm.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dłuższa przyprostokątna tego trójkąta ma długość
+A: $$4\sqrt2\ \mathrm{cm}$$
+B: $$4\sqrt3\ \mathrm{cm}$$
+C: $$6\ \mathrm{cm}$$
+D: $$8\ \mathrm{cm}$$
+POPRAWNA: B
+
+@PF
+Na rysunku przedstawiono czworokąt ABCD, który podzielono na dwa trójkąty. Długości boków otrzymanych trójkątów opisano za pomocą wyrażeń algebraicznych. Obwód trójkąta ABC jest równy 31.
+![Czworokąt ABCD](rysunek15.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Odcinek AC jest o 4 jednostki dłuższy od odcinka CD. | F
+2: Obwód trójkąta ACD jest równy 23. | P
