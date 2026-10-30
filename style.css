@@ -51,10 +51,10 @@
 .stoper strong{font-size:1.15rem}
 .stoper.zatrzymany{background:#e9f6ed;color:#17613a}
 
-/* Obrazy w zadaniach bez ograniczenia wysokości */
+/* Obrazy w zadaniach - bez ograniczenia wysokości */
 .teksty img {
     max-width: 100%;
-    max-height: none;
+    max-height: none !important;
     width: auto;
     height: auto;
     display: block;
