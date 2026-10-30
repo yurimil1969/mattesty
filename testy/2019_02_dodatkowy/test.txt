@@ -1,0 +1,140 @@
+@ABC
+Informacje do zadań 1. i 2.
+Na obozie sportowym przebywali uczniowie z klas IV, V, VI i VII. Liczbę uczestników obozu z poszczególnych klas przedstawiono na diagramie 1.
+Każdy z uczestników obozu uprawia jedną z trzech dyscyplin lekkoatletycznych: biegi, rzuty, skoki. Na diagramie 2. przedstawiono, jaka część uczniów trenuje poszczególne dyscypliny.
+![Diagramy uczestników obozu](rysunek01.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wśród wszystkich uczestników obozu 28% stanowili uczniowie z klas
+A: czwartych.
+B: piątych.
+C: szóstych.
+D: siódmych.
+POPRAWNA: C
+
+@PF
+Informacje do zadań 1. i 2.
+Na obozie sportowym przebywali uczniowie z klas IV, V, VI i VII. Liczbę uczestników obozu z poszczególnych klas przedstawiono na diagramie 1.
+Każdy z uczestników obozu uprawia jedną z trzech dyscyplin lekkoatletycznych: biegi, rzuty, skoki. Na diagramie 2. przedstawiono, jaka część uczniów trenuje poszczególne dyscypliny.
+![Diagramy uczestników obozu](rysunek01.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Skoki trenuje więcej osób niż rzuty. | P
+2: Biegi trenuje o 10 osób więcej niż skoki. | P
+
+@ABC
+Podczas lekcji matematyki uczniowie zaokrąglali liczbę 0,84631. Adam zaokrąglił tę liczbę do części dziesiątych, Bartek – do części setnych, Magda – do części tysięcznych, a Zosia – do części dziesięciotysięcznych.
+Które z dzieci otrzymało największą liczbę? Wybierz właściwą odpowiedź spośród podanych.
+A: Adam.
+B: Bartek.
+C: Magda.
+D: Zosia.
+POPRAWNA: B
+
+@ABC
+Rowerzysta wyruszył w trasę o godzinie 10:45, a do celu przyjechał o godzinie 14:05. Jego prędkość średnia na całej trasie była równa $$15\ \frac{\mathrm{km}}{\mathrm{h}}$$.
+Jaki dystans przejechał rowerzysta? Wybierz właściwą odpowiedź spośród podanych.
+A: 48 km
+B: 50 km
+C: 51 km
+D: 55 km
+POPRAWNA: B
+
+@ABC
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wyrażenie $$(x-2)(4x-3)-x(1-x)$$ po uproszczeniu jest równe
+A: $$5x^2-x-6$$
+B: $$5x^2-9x+6$$
+C: $$5x^2-12x+6$$
+D: $$3x^2-x-6$$
+POPRAWNA: C
+
+@PF
+Na rysunku przedstawiono kształt i wymiary elementu układanki, w którym sąsiednie boki są do siebie prostopadłe.
+Z takich elementów zbudowano dwie figury przedstawione na poniższym rysunku.
+![Element układanki i dwie figury](rysunek06.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Obwód figury I jest o $$2b$$ większy od obwodu figury II. | F
+2: Pole figury II jest równe $$12a^2$$. | P
+
+@LUKI
+Wydajność dużej pompy strażackiej to 24 000 litrów wody na minutę, natomiast wydajność małej pompy to 1200 litrów wody na minutę. Mała pompa w ciągu 1 godziny pracy zużywa 0,931 litra paliwa.
+---
+Uzupełnij poniższe zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.
+---
+W ciągu jednej godziny działania dużej pompy strażackiej przepłynie przez nią [[AB]] litrów wody niż w tym samym czasie przez małą pompę.
+---
+Mała pompa w ciągu 15 godzin pracy zużyje [[CD]] litrów paliwa.
+A: 200 razy więcej
+B: 20 razy więcej
+C: więcej niż 14
+D: mniej niż 14
+POPRAWNA: BD
+
+@ABC
+Na poniższej osi liczbowej literami $$k,l,m,n$$ oznaczono cztery kolejne liczby całkowite. Jedna z tych liczb jest równa 0. Kropką oznaczono liczbę $$\sqrt{41}$$.
+![Oś liczbowa](rysunek08.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Na osi liczbowej liczbę 0 oznaczono literą
+A: $$k$$.
+B: $$l$$.
+C: $$m$$.
+D: $$n$$.
+POPRAWNA: C
+
+@PF
+Dane są punkty o współrzędnych: $$A=(2,1)$$, $$B=(4,9)$$, $$C=(-2,5)$$, $$D=(8,5)$$.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Środek odcinka $$AB$$ ma współrzędne $$(3,5)$$. | P
+2: Środek odcinka $$AB$$ jest także środkiem odcinka $$CD$$. | P
+
+@ABC
+W prostokątnym układzie współrzędnych zaznaczono wierzchołki trójkąta prostokątnego ABC (patrz: rysunek).
+![Trójkąt prostokątny w układzie współrzędnych](rysunek10.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Przeciwprostokątna trójkąta ABC ma długość
+A: $$\sqrt{39}$$
+B: 10
+C: $$\sqrt{89}$$
+D: 13
+POPRAWNA: C
+
+@PF
+Rzucono czterema symetrycznymi sześciennymi kostkami do gry. Na 20 widocznych ścianach tych czterech kostek suma oczek jest równa 76. Za niewidoczną uznano ścianę, na której kostka stoi.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Na każdej z niewidocznych ścian tych kostek jest jedno oczko. | F
+2: Na niewidocznej ścianie jednej z tych kostek może być pięć oczek. | P
+
+@PF
+Na rysunku przedstawiono dwa trójkąty oraz podano niektóre ich wymiary i miary kilku kątów.
+![Dwa trójkąty](rysunek12.png)
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Te trójkąty są równoramienne. | F
+2: Te trójkąty są przystające. | P
+
+@PF
+W trójkącie ABC, w którym $$|AC|=|BC|$$, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 24 cm, a obwód trójkąta ABC jest równy 36 cm.
+Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.
+1: Obwód trójkąta BCD jest równy 18 cm. | F
+2: Wysokość CD ma długość 6 cm. | P
+
+@ABC
+Na rysunku przedstawiono fragment siatki prostopadłościanu oraz podano długości niektórych jego krawędzi.
+![Fragment siatki prostopadłościanu](rysunek14.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Suma długości wszystkich krawędzi prostopadłościanu jest równa
+A: 12
+B: 39
+C: 48
+D: 74
+POPRAWNA: C
+
+@ABC
+Z sześciu jednakowych sześciennych klocków o krawędzi 1 cm zbudowano bryłę I. Następnie z bryły tej usunięto dwa sześciany i otrzymano bryłę II (patrz: rysunki).
+![Bryły z sześciennych klocków](rysunek15.png)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole powierzchni bryły II jest mniejsze od pola powierzchni bryły I o
+A: $$2\ \mathrm{cm}^2$$
+B: $$4\ \mathrm{cm}^2$$
+C: $$7\ \mathrm{cm}^2$$
+D: $$10\ \mathrm{cm}^2$$
+E: $$12\ \mathrm{cm}^2$$
+POPRAWNA: B
