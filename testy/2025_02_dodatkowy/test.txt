@@ -1,6 +1,6 @@
 @ABC
 Robert rozpoczął czytanie książki we wtorek i zakończył w sobotę. W tabeli podano liczbę stron, które przeczytał w kolejnych dniach tygodnia:
-Wtorek – 55 stron; środa – 68 stron; czwartek – 72 strony; piątek – 49 stron.
+![Tabela](rysunek01.png)
 Od wtorku do soboty włącznie Robert czytał dziennie średnio 60 stron tej książki.
 Ile stron tej książki Robert przeczytał w sobotę? Wybierz właściwą odpowiedź.
 A: 46
